@@ -1,0 +1,30 @@
+@import url("colors.css");
+
+
+entry
+    {
+	min-height: 10px;
+	min-width: 10px;
+        padding: 6px 6px;
+        color: @text_normal;
+        border: 1px solid @entry_border_normal;
+        border-radius: 3px;
+    }
+    
+entry:focus
+    {
+        color: @text_normal;
+        border-color: @entry_border_active;
+    }
+     
+entry:disabled
+    {
+        color: @text_disabled;
+        background-color: @bg_disabled;
+        border-color: @entry_border_disabled;
+    }
+    
+
+
+
+    

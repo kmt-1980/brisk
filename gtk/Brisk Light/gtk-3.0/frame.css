@@ -1,0 +1,26 @@
+@import url("colors.css");
+
+.frame
+    {
+        border: 1px solid @border_normal;
+        border-radius: 2px;
+    }
+    
+frame 
+    {
+        border: 1px solid @border_normal;
+        border-radius: 2px;
+    }
+    
+frame .frame 
+    { 
+        border: none; 
+    }
+    
+notebook.frame 
+    { 
+        border: none; 
+    }
+    
+
+

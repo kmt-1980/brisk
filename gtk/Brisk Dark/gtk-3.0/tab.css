@@ -1,0 +1,94 @@
+@import url("colors.css");
+
+header tab
+    {
+        padding: 8px 6px;
+        background-color: transparent;
+        color: @text_dimmed;
+    }
+    
+header.top tab,
+header.bottom tab
+    {
+        margin: 0px 2px;
+    }
+    
+header.left tab,
+header.right tab
+    {
+        margin: 2px 0px;
+    }
+ 
+/** Active Tabs **/
+header.top tab:checked
+    {
+        box-shadow: inset 0px -2px @tab_active;
+        color: @text_focus;
+    }
+    
+header.bottom tab:checked
+    {
+        box-shadow: inset 0px 2px @tab_active;
+        color: @text_focus;
+    }
+    
+header.left tab:checked
+    {
+        box-shadow: inset -2px 0px @tab_active;
+        color: @text_focus;
+    }
+    
+header.right tab:checked
+    {
+        box-shadow: inset 2px 0px @tab_active;
+        color: @text_focus;
+    }
+
+/** Hovered tabs **/
+header.top tab:hover
+    {
+        box-shadow: inset 0px -2px @tab_hover;
+        color: @text_focus;
+    }
+    
+header.top tab:checked:hover
+    {
+        box-shadow: inset 0px -2px @tab_toggledhover;
+    }
+    
+header.bottom tab:hover
+    {
+        box-shadow: inset 0px 2px @tab_hover;
+        color: @text_focus;
+    }
+    
+header.bottom tab:checked:hover
+    {
+        box-shadow: inset 0px 2px @tab_toggledhover;
+    }
+    
+header.left tab:hover
+    {
+        box-shadow: inset -2px 0px @tab_hover;
+        color: @text_focus;
+    }
+    
+header.left tab:checked:hover
+    {
+        box-shadow: inset -2px 0px @tab_toggledhover;
+    }
+    
+header.right tab:hover
+    {
+        box-shadow: inset 2px 0px @tab_hover;
+        color: @text_focus;
+    }
+    
+header.right tab:checked:hover
+    {
+        box-shadow: inset 2px 0px @tab_toggledhover;
+    }
+    
+    
+
+    

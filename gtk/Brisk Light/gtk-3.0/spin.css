@@ -1,0 +1,81 @@
+@import url("colors.css");
+
+spinbutton 
+    {
+	    min-height: 10px;
+	    min-width: 10px;
+        padding: 0;
+        border: 1px solid @spin_border_normal;
+        border-radius: 3px;
+        color: @spin_text;
+    }
+    
+spinbutton:focus
+    {
+        border-color: @spin_border_focus;
+    }
+
+spinbutton:disabled
+    {
+        background-color: @bg_disabled;
+        border-color: @spin_border_disabled;
+        color: @text_disabled;
+    }
+
+spinbutton button
+    {
+        background-color: @spin_btn_normal;
+        margin: 0;
+        padding: 4px;
+        border: none;
+        color: @spin_ctl_normal;
+        font-weight: bold;
+        box-shadow: none;
+        text-shadow: 1px 1px 1px #ff0000;
+    }
+    
+spinbutton button:hover
+    {
+	    box-shadow: none;
+        background-color: @spin_btn_hover;
+        color: @spin_ctl_hover;
+    }
+    
+spinbutton button:active
+    {
+        background-color: @spin_btn_active;
+        color: @spin_ctl_active;
+    }
+    
+spinbutton button:disabled
+    {
+        background-color: @spin_btn_disabled;
+        color: @spin_ctl_disabled;
+    }
+    
+spinbutton entry
+    {
+        border: none;
+        padding: 6px;
+    }
+    
+spinbutton entry:disabled
+    {
+        background-color: transparent;
+    }
+    
+  
+spinbutton.vertical button
+    {
+        background-color: transparent;
+        padding: 4px;
+        margin: 0;
+        border: none;
+    }
+    
+spinbutton.vertical entry
+    {
+        padding: 3px;
+        border: none;
+    }
+    

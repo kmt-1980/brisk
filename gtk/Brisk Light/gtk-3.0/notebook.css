@@ -1,0 +1,27 @@
+@import url("colors.css"); 
+
+notebook > stack:not(:only-child)
+    {
+        border: 1px solid @tab_view_border;
+        border-radius: 2px;
+        background-clip: padding-box;
+        background-color: @tab_view_bg;
+    }
+    
+notebook > header button.flat
+    {
+        margin-left: 5px;
+        background-color: transparent;
+    }
+    
+notebook > header button.flat:hover
+    {
+        background-color: transparent;
+        color: #ff4664;
+    }
+    
+notebook > header button.flat:active
+    {
+        background-color: transparent;
+        color: #ff7684;
+    }

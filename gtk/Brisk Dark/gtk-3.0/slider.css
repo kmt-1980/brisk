@@ -1,0 +1,67 @@
+@import url("colors.css");
+
+/**********
+ * Trough *
+ **********/
+
+scale trough 
+    {
+        min-width: 3px;
+        min-height: 3px;
+        margin: 9px;
+        border-radius: 2px;
+        background-color: @slider_trough;
+        box-shadow: none; 
+    }
+    
+scale trough:disabled 
+    {
+        background-color: @slider_trough_disabled;
+    }
+    
+scale highlight 
+    {
+        background-color: @slider_scale_active;  
+        border-radius: 2px;
+    }
+    
+scale highlight:disabled
+    {
+        background-color: @slider_scale_disabled;
+    }
+
+/**********
+ * Handle *
+ **********/
+scale slider 
+    {
+        min-width: 15px;
+        min-height: 15px;
+        background-color: @slider_handle_normal;
+        border-radius: 50%;
+        box-shadow: -1px 0px 2px rgba(0,0,0,.35);
+        margin: -6px; 
+    }
+    
+scale.vertical slider
+    {
+        box-shadow: 0px -1px 2px rgba(0,0,0,.35);
+    }
+  
+scale slider:hover 
+    {
+        background-color: @slider_handle_hover; 
+    }
+    
+scale slider:active
+    {
+        background-color: @slider_handle_active;
+    }
+    
+scale slider:disabled
+    {
+        background-color: @slider_handle_disabled;
+        box-shadow: none;
+    }
+    
+

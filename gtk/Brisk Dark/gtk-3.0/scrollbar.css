@@ -1,0 +1,81 @@
+@import url("colors.css");
+
+scrollbar 
+    {
+        -GtkScrollbar-has-backward-stepper: false;
+        -GtkScrollbar-has-forward-stepper: false;
+        background-color: transparent;
+        margin: 0px; 
+    }
+     
+scrollbar.dragging, scrollbar.hovering 
+    {
+        opacity: 0.9910; 
+    }
+    
+scrollbar.overlay-indicator:not(.dragging):not(.hovering) 
+    {
+        opacity: 0.999; 
+    }
+    
+scrollbar.overlay-indicator:not(.dragging):not(.hovering) 
+    {
+        -GtkScrollbar-has-backward-stepper: false;
+        -GtkScrollbar-has-forward-stepper: false;
+        background: none; 
+    }
+    
+scrollbar.overlay-indicator:not(.dragging):not(.hovering) slider 
+    {
+        min-width: 6px;
+        border-radius: 6px;
+        background-color: @scrollbar_slider_indicator; 
+    }
+    
+   
+scrollbar.overlay-indicator:not(.dragging):not(.hovering).horizontal slider 
+    {
+        min-height: 4px; 
+    }
+      
+scrollbar:hover trough
+    {
+        background-color: transparent;   
+    }
+  
+scrollbar trough 
+    {
+        transition-duration:0.1s;
+        min-width: 6px;
+        min-height: 14px;
+        background-color: @scrollbar_trough;
+        background-clip: padding-box;        
+    }
+  
+scrollbar slider 
+    {
+        transition-duration:0.1s;
+        min-width: 6px;
+        min-height: 30px;
+        border: 3px solid transparent;
+        border-radius: 6px;
+        background-clip: padding-box;
+        background-color: @scrollbar_slider_normal; 
+    }
+    
+scrollbar slider:hover 
+    {
+        background-color: @scrollbar_slider_hover; 
+    }
+    
+scrollbar slider:active 
+    {
+        background-color: @scrollbar_slider_active; 
+    }
+   
+scrollbar.horizontal slider 
+    {
+        min-width: 30px;
+        min-height: 6px;
+        border-radius: 6px;
+    }

@@ -1,0 +1,90 @@
+@import url("colors.css");
+
+progressbar 
+    {
+        color: @text_normal; 
+    }
+    
+progressbar.horizontal trough,
+progressbar.horizontal progress 
+    {
+        min-height: 4px;    
+        border-radius: 2px;
+    }
+    
+progressbar.vertical trough,
+progressbar.vertical progress 
+    {
+        min-width: 4px; 
+        border-radius: 2px;
+    }
+    
+progressbar trough 
+    {
+        background-color: @progress_trough; 
+    }
+    
+progressbar progress 
+    {
+        background-color: @slider_scale_active;
+        box-shadow: none; 
+    }
+ 
+/*************
+ * Level Bar *
+ *************/
+
+levelbar block
+    {
+        min-width: 32px;
+        min-height: 4px;
+        border-radius: 2px;
+    }
+    
+levelbar.vertical block
+    {
+        min-width: 4px;
+        min-height: 32px;
+        border-radius: 2px;
+    }
+    
+levelbar trough 
+    { 
+        background-color: @levelbar_trough; 
+    }
+    
+levelbar.horizontal.discrete block 
+    {
+        margin: 0 1px; 
+    }
+    
+levelbar.vertical.discrete block 
+    {
+        margin: 1px 0; 
+    }
+    
+levelbar block.empty
+    {
+        background-color:  @levelbar_empty;
+    }
+    
+levelbar block:not(.empty) 
+    {
+        background-color: @levelbar_active;
+    }
+  
+levelbar block.low 
+    {
+        background-color: @levelbar_low; 
+    }
+    
+levelbar block.high
+    {
+        background-color: @levelbar_high;
+    }
+    
+levelbar block.full 
+    {
+        background-color: @levelbar_high;
+    }
+    

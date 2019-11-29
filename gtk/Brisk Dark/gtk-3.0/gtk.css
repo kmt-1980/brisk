@@ -1,0 +1,114 @@
+@import url("colors.css");
+@import url("buttons.css");
+@import url("header.css");
+@import url("entry.css");
+@import url("check-radio.css");
+@import url("menu.css");
+@import url("combo.css");
+@import url("switch.css");
+@import url("tab.css");
+@import url("list.css");
+@import url("slider.css");
+@import url("progress.css");
+@import url("scrollbar.css");
+@import url("treeview.css");
+@import url("frame.css");
+@import url("spin.css");
+@import url("notebook.css");
+@import url("calendar.css");
+
+*
+    {
+        padding: 0;
+        -GtkToolButton-icon-spacing: 4;
+        -GtkTextView-error-underline-color: @error_bg_main;
+        -GtkButton-child-displacement-x: 0;
+        -GtkButton-child-displacement-y: 0;
+        -GtkCheckButton-indicator-size: 18;
+        -GtkCheckMenuItem-indicator-size: 18;
+        -GtkScrolledWindow-scrollbar-spacing: 0;
+        -GtkScrolledWindow-scrollbars-within-bevel: 0;
+        -GtkScrolled-window-overlay-scrolling: FALSE;
+        -GtkToolItemGroup-expander-size: 11;
+        -GtkExpander-expander-size: 16;
+        -GtkTreeView-expander-size: 11;
+        -GtkTreeView-horizontal-separator: 4;
+        -GtkWidget-text-handle-width: 20;
+        -GtkWidget-text-handle-height: 20;
+        -GtkDialog-button-spacing: 4;
+        -GtkDialog-action-area-border: 0;
+        -GtkStatusbar-shadow-type: none;
+        outline-width: 0px;
+        text-shadow: none;
+    }
+
+.background 
+    {
+        color: @text_normal;
+        background-color: @window_bg_main;
+    }
+    
+.view,
+.vew text,
+textview text
+    {
+        color: @text_normal;
+        background-color: @window_bg_main;
+        
+    }
+    
+
+
+
+    
+.rubberband,
+rubberband,
+flowbox rubberband,
+treeview.view rubberband
+    {
+        background-color: @band_select_main;
+        border: 1px solid @band_select_border;
+    }
+    
+  
+/*************
+ * Selection *
+ *************/
+  
+.view text:selected:focus, textview text:selected:focus,  
+.view text:selected, 
+textview text:selected, 
+.view text selection:focus, 
+.view text selection, textview text selection:focus,
+textview text selection, 
+flowbox flowboxchild:selected, 
+spinbutton:not(.vertical) selection:focus, 
+spinbutton:not(.vertical) selection,entry selection:focus,
+entry selection, 
+.sidebar:selected
+    {
+        background-color: @selection_bg_main;
+        color: #ffffff;
+    }
+     
+.view:selected:focus
+    { 
+        background-color: @selection_bg_alt;
+        color: #ffffff;        
+    }
+    
+.view:selected
+    { 
+        background-color: @menu_item_hover;
+        color: #ffffff;
+    }
+    
+row:selected
+    {
+        background-color: @btn_bg_hover;
+        color: #ffffff;
+    }
+    
+    popover.background > .view { background-color: red; }
+
+    

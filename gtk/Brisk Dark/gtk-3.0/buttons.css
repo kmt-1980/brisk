@@ -1,0 +1,166 @@
+@import url("colors.css");
+
+button
+    {
+	margin-left: 1px;
+	min-height: 10px;
+	min-width: 10px;
+        padding: 6px 6px;
+        background-clip: padding-box;
+        background-color: @btn_bg_normal;
+        border: 1px solid @btn_border;
+        border-radius: 3px;
+        color: @btn_text_normal;
+        box-shadow: 0px 1px 2px 0px rgba(0,0,0,.25);
+        transition: all 550ms;
+    }
+    
+button:hover
+    {
+        background-color: @btn_bg_hover;
+        color: @btn_text_hover;
+        border-color: @btn_border_hover;
+        box-shadow: 0px 1px 2px 0px rgba(0,0,0,.45);
+    }
+    
+button:active
+    {
+        background-color: @btn_bg_pressed;
+        color: @btn_text_pressed;
+        border-color: @btn_border_pressed;
+        box-shadow: none;
+        transition: all 350ms;
+    }
+    
+button:checked
+    {
+        background-color: @btn_bg_toggled;
+        border-color: @btn_border_hover;
+        color: @btn_text_toggled;
+    }
+    
+button:checked:hover
+    {
+        background-color: @btn_bg_toggledhover;
+        border-color: @btn_border_pressed;
+    }
+    
+button:disabled
+    {
+        background-color: @btn_bg_disabled;
+        color: @btn_text_disabled;
+    }
+    
+button:checked:disabled
+    {
+        background-color: @btn_bg_disabled;
+        color: @btn_text_disabled;
+        border-color: @btn_border;
+    }    
+    
+button separator 
+    {
+        min-width: 0;
+        min-height:0;
+    }
+
+    
+notebook > header > tabs > arrow:hover
+{ background-color: #ff00ff; }
+
+.inline-toolbar toolbutton > button
+{ background-color: #ff00ff; }
+
+.stack-switcher > button > image
+    {
+        padding: 4px 6px;
+    }
+
+/* Header page number buttons */
+.stack-switcher > button.text-button 
+    { 	
+        background-color: @btn_page_normal;
+        padding: 6px 6px;
+    }
+    
+.stack-switcher > button.text-button:hover
+    {
+        background-color: @btn_page_hover;
+    }
+    
+.stack-switcher > button.text-button:checked
+    {
+        font-weight: normal;
+    }
+    
+.stack-switcher > button.text-button:checked:hover
+    {
+        background-color: @btn_bg_toggledhover;
+    }
+    
+    
+button.flat,
+.stack-switcher > button.image-button
+    { 
+        margin: 1px;
+        background-color: transparent;
+        border: none;
+        color: @text_normal;
+        box-shadow: none;
+        padding: 5px;
+    }
+    
+button.flat:hover,
+.stack-switcher > button.image-button:hover
+    { 
+        background-color: rgba(0,10,20,.10);
+        color: @text_hover;
+    }
+    
+button.flat:active,
+.stack-switcher > button.image-button:active
+    { 
+        background-color: rgba(0,10,20,.18);
+        color: @text_pressed;
+    }
+
+button.flat:checked,
+.stack-switcher > button.image-button:checked
+    { 
+        background-color: @btn_bg_toggled;
+        font-weight: normal;
+        color: @btn_text_toggled;
+    }
+    
+button.flat:checked:hover,
+.stack-switcher > button.image-button:checked:hover
+    { 
+        background-color: @btn_bg_toggledhover;
+        color: @btn_text_toggled;
+    }
+    
+button.flat:checked:disabled,
+.stack-switcher > button.image-button:disabled
+    { 
+        background-color: @btn_bg_disabled;
+        color: @btn_text_disabled;
+        
+    }
+
+button.destructive-action 
+    { 
+        background-color: @error_bg_main;
+        border-color: @error_bg_main;
+        color: #ffffff;
+    }
+    
+button.destructive-action:hover 
+    { 
+        background-color: #ff4664;
+        border-color: #ff4664;
+    }
+    
+
+
+
+

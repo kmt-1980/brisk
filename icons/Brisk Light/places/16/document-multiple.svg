@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#3a3a3a;
+      }
+      </style>
+  </defs>
+  <path
+     style="color:#3a3a3a;fill:#3a3a3a;fill-opacity:1;stroke:none;stroke-width:1.375"
+     d="m 3.4375,2.75 v 15.125 h 4.125 v 1.375 h 6.875 l 4.125,-4.125 V 5.5 h -1.375 V 2.75 H 4.5170897 Z m 1.375,1.375 h 11 V 5.5 h -8.25 v 11 h -2.75 z m 4.125,2.75 h 8.25 v 6.875 h -4.125 v 4.125 h -4.125 z"
+     class="ColorScheme-Text"
+     id="path4"
+     inkscape:connector-curvature="0" />
+</svg>

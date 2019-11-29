@@ -1,0 +1,216 @@
+
+
+/**********************
+ *  Main theme colors *
+ **********************/
+
+@define-color window_bg_main #f4f4f4;
+@define-color window_bg_alt #ffffff;
+@define-color error_bg_main #ff1234;
+@define-color bg_disabled #dcddde;
+
+
+@define-color text_normal #4a4c4e;
+@define-color text_dimmed #a6a6a6;
+@define-color text_focus #4a4c4e;
+@define-color text_hover #4a4c4e;
+@define-color text_pressed #4a4c4e;
+@define-color text_disabled #a6a6a6;
+@define-color text_hero_normal #0091de;
+@define-color text_hero_active #52baff;
+
+@define-color border_normal #a0a2a5;
+@define-color border_focus #0091de;
+@define-color border_disabled #c0c2c5;
+
+
+/*********************
+ *  Selection colors *
+ *********************/
+
+@define-color band_select_main rgba(0,145,222,0.08);
+@define-color band_select_border #0091de;
+@define-color selection_bg_main #0091de;
+@define-color selection_bg_alt #0091de;
+
+
+/******************
+ *  Button colors *
+ ******************/
+
+@define-color btn_bg_normal #ecedee;
+@define-color btn_bg_hover #e5e6e7;
+@define-color btn_bg_pressed #e5e6e7;
+@define-color btn_bg_toggled #0091de;
+@define-color btn_bg_toggledhover #00aef8;
+@define-color btn_bg_disabled @bg_disabled;
+@define-color btn_border #aaacb0;
+@define-color btn_border_hover #aaacb0;
+@define-color btn_border_pressed @btn_bg_pressed;
+@define-color btn_border_disabled @border_disabled;
+
+@define-color btnflat_bg_normal @btn_bg_normal;
+
+@define-color btn_text_normal #5a5c5e;
+@define-color btn_text_hover #5a5c5e;
+@define-color btn_text_pressed #5a5c5e;
+@define-color btn_text_toggled #ffffff;
+@define-color btn_text_disabled @text_disabled;
+
+
+/********************
+ *  Header/Titlebar *
+ ********************/
+
+@define-color header_bg @window_bg_main;
+
+@define-color btn_header_bg_normal transparent;
+@define-color btn_header_bg_hover rgba(255,255,255,0.12);
+@define-color btn_header_bg_pressed @btn_bg_pressed;
+@define-color btn_header_bg_toggled @btn_bg_toggled;
+@define-color btn_header_bg_toggledhover @btn_bg_toggledhover;
+
+/* header page buttons */
+@define-color btn_page_normal @btn_bg_normal;
+@define-color btn_page_hover @btn_bg_hover;
+
+/* Min, max and close window decoration colors */
+@define-color btn_mmc_bg_normal transparent;
+@define-color btn_mmc_bg_hover @btn_header_bg_hover;
+@define-color btn_mmc_bg_pressed rgba(255,255,255,0.24);
+
+
+
+/****************
+ *  Combo Boxes *
+ ****************/
+@define-color combo_bg_normal @btn_bg_normal;
+@define-color combo_bg_hover @btn_bg_hover;
+@define-color combo_bg_pressed @btn_bg_pressed;
+@define-color combo_bg_toggled @btn_bg_toggled;
+@define-color combo_bg_disabled @btn_bg_disabled;
+
+/****************
+ * Entry colors *
+ ****************/
+
+@define-color entry_border_normal @border_normal;
+@define-color entry_border_active @border_focus;
+@define-color entry_border_disabled @border_disabled;
+
+
+/*****************
+ * Switch colors *
+ *****************/
+
+@define-color switch_base_off #caccce;
+@define-color switch_base_hover #d0d2d4;
+@define-color switch_base_on #209c4c;
+@define-color switch_base_on_hover #20b04c;
+@define-color switch_base_disabled @btn_bg_disabled;
+@define-color slider_off #f4f4f4;
+@define-color slider_on #ffffff;
+@define-color slider_off_hover #f4f4f4;
+@define-color slider_on_hover #ffffff;
+@define-color slider_disabled #c6c8ca;
+
+/****************
+ *  Menu colors *
+ ****************/
+
+@define-color menu_bg #ffffff;
+@define-color menu_separator #c8c9ca;
+@define-color menu_item_hover @text_hero_normal;
+@define-color menubar_bg @window_bg_main;
+@define-color menubar_bg_toggled #0091de;
+
+/**************
+ * Tab colors *
+ **************/
+
+@define-color tab_active #0091de;
+@define-color tab_hover #0091de;
+@define-color tab_toggledhover #00aef8;
+@define-color tab_view_bg transparent;
+@define-color tab_view_border @border_normal;
+
+/*****************
+ * Slider colors *
+ *****************/
+
+@define-color slider_trough #c6c8ca;
+@define-color slider_trough_disabled #d6d8da;
+@define-color slider_scale_active #00aef8;
+@define-color slider_scale_disabled #c6c8ca;
+@define-color slider_handle_normal #04bcff;
+@define-color slider_handle_hover #55daff;
+@define-color slider_handle_active #55daff;
+@define-color slider_handle_disabled #c6c8ca;
+
+/****************
+ * Spin Buttons *
+ ****************/
+
+@define-color spin_btn_normal transparent;
+@define-color spin_btn_hover transparent;
+@define-color spin_btn_active transparent;
+@define-color spin_btn_disabled transparent;
+
+@define-color spin_border_normal @border_normal;
+@define-color spin_border_focus @border_focus;
+@define-color spin_border_disabled @border_disabled;
+
+@define-color spin_ctl_normal #7a7c7e;
+@define-color spin_ctl_hover @text_hero_normal;
+@define-color spin_ctl_active @text_hero_active;
+@define-color spin_ctl_disabled @text_disabled;
+
+@define-color spin_text @text_normal;
+
+/***************
+ * Progressbar *
+ ***************/
+
+@define-color progress_trough @slider_trough;
+@define-color progress_active @slider_scale_active;
+@define-color levelbar_trough transparent;
+@define-color levelbar_empty @slider_trough;
+@define-color levelbar_active @slider_scale_active;
+@define-color levelbar_low #ff1234;
+@define-color levelbar_high @slider_scale_active;
+
+/*************
+ * Scrollbar *
+ *************/
+
+@define-color scrollbar_trough transparent;
+@define-color scrollbar_slider_indicator rgba(255,255,255,.03);
+@define-color scrollbar_slider_normal #c8cace;
+@define-color scrollbar_slider_hover #c8cace;
+@define-color scrollbar_slider_active #aaacb0;
+
+/************
+ * Treeview *
+ ************/
+
+@define-color treeview_header #e2e4e6;
+@define-color treeview_header_hover #d4d6d8;
+@define-color treeview_header_active #e2e4e6;
+@define-color treeview_header-disabled @btn_bg_disabled;
+@define-color treeview_bg #ffffff;
+@define-color treeview_tree #b4b6b9;
+@define-color treeview_selected rgba(0,10,20,.1);
+@define-color treeview_disabled @btn_bg_disabled;
+
+/************
+ * Calendar *
+ ************/
+
+@define-color cal_text_normal #d6d6d6;
+@define-color cal_text_selected #70ffd5;
+@define-color cal_text_indeterminate #26282a;
+@define-color cal_text_header #ffffff;
+@define-color cal_header_bg #00a078;
+@define-color cal_btn_hover rgba(0,0,0,.15);
+
+

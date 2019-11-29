@@ -1,0 +1,20 @@
+@import url("colors.css");
+
+list
+    {
+        background-color: @window_bg_alt;
+        color: @text_normal;
+    }
+    
+list row
+    {
+        padding: 2px;
+    }
+    
+row:hover
+    {
+        background-color: @menu_item_hover;
+        color: @text_hover;
+    }
+
+/** row:selected can be found in gtk.css **/

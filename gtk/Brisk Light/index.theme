@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Brisk-Light
+Comment=Brisk-Light
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Brisk-Light
+MetacityTheme=Brisk-Light
+IconTheme=Breeze-Dark
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

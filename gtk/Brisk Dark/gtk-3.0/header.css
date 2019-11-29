@@ -1,0 +1,78 @@
+@import url("colors.css");
+
+decoration 
+    {
+        background-color: @header_bg;
+        padding: 0;
+    }
+
+.titlebar button
+    { 
+        padding: 8px 12px;
+        margin-left: 2px;
+        margin-right: 2px;
+        border: none;
+       
+        background-color: @btn_header_bg_normal; 
+        color: btn_text_normal;
+    }
+    
+.titlebar button:active
+    { 
+        background-color: @btn_header_bg_pressed; 
+        color: @btn_text_pressed;
+    }
+    
+.titlebar button:hover
+    { 
+        background-color: @btn_header_bg_hover; 
+        color: @btn_text_hover; 
+        
+    }
+
+.titlebar button:checked
+    { 
+        background-color: @btn_header_bg_toggled; 
+        color: @btn_text_toggled;  
+        font-weight: bold;
+    }
+    
+.titlebar button:checked:hover
+    { 
+        background-color: @btn_header_bg_toggledhover; 
+        color: @btn_text_toggled;        
+    }
+
+button.titlebutton
+    {    
+        min-height: 12px;
+	min-width: 12px;
+	padding: 10px;
+        border-radius: 50%;
+        background-color: @btn_mmc_bg_normal;  
+        color: @btn_text_normal;
+    }
+      
+button.titlebutton:hover
+    { 
+        background-color: @btn_mmc_bg_hover;  
+        color: @btn_text_hover;
+    }
+    
+button.titlebutton.close:hover
+    {
+        background-color: #ff1234;
+        color: #ffffff;
+    }
+    
+button.titlebutton:active
+    {
+        background-color: @btn_mmc_bg_pressed;
+        color: #ffffff;
+    }
+    
+button.titlebutton.close:active
+    {
+        background-color: #ff4664;
+        color: #ffffff;
+    }

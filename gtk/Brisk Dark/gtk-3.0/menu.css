@@ -1,0 +1,95 @@
+@import url("colors.css");
+
+menubar,
+.menubar 
+    {
+        -GtkWidget-window-dragging: true;
+        padding: 0;        
+        background-color: @menubar_bg;
+        color: text_normal;
+    }
+    
+menubar > menuitem,
+.menubar > menuitem
+    {
+        padding: 4px 6px;
+        border-radius: 3px;
+    }
+    
+menubar > menuitem:hover,
+.menubar > menuitem:hover
+    {
+        background-color: @menubar_bg_toggled;
+        color: #ffffff;
+    }
+    
+  
+menubar > menuitem:disabled,
+.menubar > menuitem:disabled
+    {
+        color: @text_disabled;
+    }
+
+menu,
+.menu
+    {
+        background-color: @menu_bg;
+        color: @text_normal;
+        padding: 7px 0 7px 0;
+        border-radius: 3px;
+        border: 1px solid #d0d2d4;
+    }
+    
+popover.background
+    {
+        padding: 0;
+        background-color: @menu_bg; 
+        box-shadow: 2px 2px 4px rgba(0,0,0,.35);
+        border-radius: 3px;
+        color: @text_normal;
+    }
+    
+modelbutton.flat
+    {
+        border-radius: 3px;
+        padding: 2px 4px;
+    }
+
+modelbutton.flat:hover
+    { 
+        background-color: @menu_item_hover; 
+        color: #ffffff;
+    }
+    
+    
+menu menuitem,
+.menu menuitem
+    {
+        padding: 4px 6px;
+    }
+    
+menu menuitem:hover,
+.menu menuitem:hover
+    {
+        background-color: @menu_item_hover;
+        color: #ffffff;
+    }
+ 
+menu menuitem:disabled,
+.menu menuitem:disabled
+    {
+        color: @text_disabled;
+    }
+    
+    
+menu separator,
+.menu separator
+    {
+        color: @menu_separator;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+
+
+    
+

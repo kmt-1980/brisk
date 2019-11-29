@@ -1,0 +1,94 @@
+@import url("colors.css");
+
+combobox arrow 
+    {
+        -gtk-icon-source: -gtk-icontheme("pan-down-symbolic");
+        min-height: 16px;
+        min-width: 16px;
+    }
+    
+.linked > button,
+.linked.vertical > button,
+.linked > combobox > box > button.combo:dir(ltr),
+.linked > combobox > box > button.combo:dir(rtl)
+    {
+        
+        padding: 4px 6px;
+        background-clip: padding-box;
+        background-color: @combo_bg_normal;
+        color: @btn_text_normal;
+    }
+    
+.linked > button:hover,
+.linked.vertical > button:hover,
+.linked > combobox > box > button:hover.combo:dir(ltr),
+.linked > combobox > box > button:hover.combo:dir(rtl)
+    {
+        background-color: @combo_bg_hover;
+        color: @btn_text_hover;        
+    }
+    
+.linked > button:active,
+.linked.vertical > button:active,
+.linked > combobox > box > button:active.combo:dir(ltr),
+.linked > combobox > box > button:active.combo:dir(rtl)
+    {
+        background-color: @combo_bg_pressed;
+        color: @btn_text_pressed;
+    }
+    
+.linked > button:checked,
+.linked.vertical > button:checked,
+.linked > combobox > box > button:checked.combo:dir(ltr),
+.linked > combobox > box > button:checked.combo:dir(rtl)
+    {
+        background-color: @combo_bg_toggled;
+        color: @btn_text_toggled;
+    }
+
+.linked > button:disabled,
+.linked.vertical > button:disabled,
+.linked > combobox > box > button:disabled.combo:dir(ltr),
+.linked > combobox > box > button:disabled.combo:dir(rtl)
+    {
+        background-color: @combo_bg_disabled;
+        color: @btn_text_disabled;
+    }
+
+/* The following selectors isolate the button in combobox with an entry */
+entry.combo + button.combo,
+entry + button:last-child 
+    { 
+	padding: 4px 6px;
+        background-color: transparent;
+        border: 1px solid @entry_border_normal;
+        box-shadow: none;
+        color: @text_dimmed;
+        margin: 0 5px;
+    }
+    
+entry.combo + button.combo:hover,
+entry + button:last-child
+    {
+        color: @text_hover;
+    }
+    
+entry.combo + button.combo:checked,
+entry + button:last-child
+    {
+        border-color: @border_focus;
+    }
+    
+entry.combo + button.combo:disabled,
+entry + button:last-child
+    {
+        background-color: @bg_disabled;
+        border-color: @border_disabled;
+        color: @text_disabled;
+    }
+
+
+
+
+    
+    

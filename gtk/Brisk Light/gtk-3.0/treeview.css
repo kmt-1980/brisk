@@ -1,0 +1,74 @@
+@import url("colors.css");
+
+treeview.view header button 
+    {
+        margin-left: 0;
+        margin-right: 1px;
+        color: @text_normal;
+        border: none;
+        border-radius: 0px;
+        background-color: @treeview_header;
+        box-shadow: none;
+    }
+    
+treeview.view header button:last-child
+    {
+        margin-right: 0; /* hack job */
+    }
+    
+treeview.view header button:hover
+    {
+        color: @text_hover;
+        background-color: @treeview_header_hover;
+    }
+    
+treeview.view header button:active
+    {
+        color: #7a7c7e;
+        background-color: @treeview_header_active;
+    }
+    
+treeview.view header button:disabled
+    {
+        background-color: @treeview_header_disabled;
+    }
+    
+treeview.view 
+    {
+        
+        -GtkTreeView-grid-line-width: 0;
+        -GtkTreeView-grid-line-pattern: '';
+        -GtkTreeView-tree-line-width: 1;
+        -GtkTreeView-tree-line-pattern: '';
+        -GtkTreeView-expander-size: 16;
+        color: @text_normal;
+        border: none;
+        border-color: @treeview_tree;
+        background-color: @treeview_bg;
+    }
+      
+treeview.view:selected 
+    {
+        background-color: @treeview_selected;
+        color: @text_normal;
+    }
+    
+treeview.view:disabled
+    {
+        background-color: @treeview_disabled;
+    }
+    
+treeview.view.separator
+    {
+        
+    }
+    
+treeview.view:drop(active)
+    {
+        border: 1px solid #00ff00;
+        background-color: #ff0000;
+    }
+    
+
+    
+    
