@@ -1,0 +1,4 @@
+*.directory
+.directory
+\##gtk.css
+*\gtk.css
