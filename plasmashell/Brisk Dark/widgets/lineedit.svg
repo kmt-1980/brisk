@@ -28,7 +28,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#0c0d0e"
+     pagecolor="#1e2023"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="3840"
-     inkscape:window-height="2029"
+     inkscape:window-height="2012"
      id="namedview101"
      showgrid="true"
-     inkscape:zoom="48.941596"
-     inkscape:cx="122.93802"
-     inkscape:cy="107.99017"
+     inkscape:zoom="8.3202898"
+     inkscape:cx="58.02996"
+     inkscape:cy="75"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,9 +54,9 @@
     <inkscape:grid
        type="xygrid"
        id="grid903"
-       color="#3f3f3f"
+       color="#6e6e6e"
        opacity="0.1254902"
-       empcolor="#3f3f3f"
+       empcolor="#6e6e6e"
        empopacity="0.25098039" />
   </sodipodi:namedview>
   <defs
@@ -366,14 +366,14 @@
        style="opacity:1;fill:#787a7e;fill-opacity:1;stroke:none;stroke-width:1.23318744;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <rect
-     style="fill:#1188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649709"
+     style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649709"
      id="base-hint-right-margin"
      width="4"
      height="1.9999999"
      x="140.20366"
      y="41.241951" />
   <rect
-     style="fill:#1188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649625"
+     style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649625"
      id="base-hint-top-margin"
      width="2"
      height="4"
@@ -385,14 +385,14 @@
      height="4"
      width="1.9999999"
      id="base-hint-bottom-margin"
-     style="fill:#1188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649613" />
+     style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649613" />
   <rect
      y="41.241951"
      x="35.20311"
      height="1.9999999"
      width="4"
      id="base-hint-left-margin"
-     style="fill:#1188ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649655" />
+     style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649655" />
   <g
      id="hover-topright"
      transform="translate(-16.20314,-45.241918)"
