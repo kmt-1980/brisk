@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Brisk Light
 Comment=Brisk light for KDE Plasma
-#Inherits="Deepin Light","deepin light",Deepin-Light,deepin-light,deepin,Deepin,Papirus,papirus
+Inherits="Deepin Light","deepin light",Deepin Light, deepin light, Deepin-Light,deepin-light,deepin,Deepin
 
 DisplayDepth=32
 
