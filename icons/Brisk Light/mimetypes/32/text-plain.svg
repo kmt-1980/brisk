@@ -28,7 +28,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#1e2023"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -41,7 +41,7 @@
      id="namedview22"
      showgrid="true"
      inkscape:zoom="27.515625"
-     inkscape:cx="17.255817"
+     inkscape:cx="7.5885825"
      inkscape:cy="17.058194"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -49,7 +49,11 @@
      inkscape:current-layer="svg20">
     <inkscape:grid
        type="xygrid"
-       id="grid848" />
+       id="grid848"
+       color="#6e6e6e"
+       opacity="0.1254902"
+       empcolor="#6e6e6e"
+       empopacity="0.25098039" />
   </sodipodi:namedview>
   <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
   <title
@@ -71,25 +75,6 @@
          id="stop1050" />
     </linearGradient>
     <linearGradient
-       x1="11.958261"
-       y1="23.422554"
-       x2="11.958261"
-       y2="0.42589808"
-       id="linearGradient-1"
-       gradientTransform="matrix(0.91986621,0,0,1.0871146,4,3.537)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#DADEF0"
-         offset="0%"
-         id="stop6"
-         style="stop-color:#f5f5f5;stop-opacity:1" />
-      <stop
-         stop-color="#F5F5FA"
-         offset="100%"
-         id="stop8"
-         style="stop-color:#fafafa;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1052"
        id="linearGradient1054"
@@ -106,14 +91,7 @@
        width="28"
        height="30"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAeCAYAAAA/xX6fAAAABHNCSVQICAgIfAhkiAAAAS1JREFU
-SIntltFugzAMRU9I6Pr/P9t2DLIHfMGDiJVQ3rhSRFBin9hRZAdmBTfP7Ndb9tFtbmzUgBrzFRfg
-IlAGLZDsf9g6ZQEYzf7GHETRXsAEfJkBQF8BvDkfjdmvfCiixuatwTbTUtBgdpgPBfIAfnAZ04JO
-GM2ws0175a9Hvv9Emhab90YmZTvo0/lqgbtb74Cc1rbVUkYEzYxZu9th+k8DBc0OqqfSAt9AX/Pu
-/pPS29nIjPcagHAGUNCBwns+Cyjo6h2eCSzqAl7AC3gBz1epPAWOFeNNH8uK73sbtQe1wGRDpWkF
-1H+0TXs6txIwMnZxgbH4TgDVLnVXibEtqIV5aGN+p85NEfbAizkVR+7PAxXIyxiT42W77teOSO1G
-b/DsnYbF91PK/vsLc5FLl5zJYr0AAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAeCAYAAAA/xX6fAAAABHNCSVQICAgIfAhkiAAAAS1JREFU SIntltFugzAMRU9I6Pr/P9t2DLIHfMGDiJVQ3rhSRFBin9hRZAdmBTfP7Ndb9tFtbmzUgBrzFRfg IlAGLZDsf9g6ZQEYzf7GHETRXsAEfJkBQF8BvDkfjdmvfCiixuatwTbTUtBgdpgPBfIAfnAZ04JO GM2ws0175a9Hvv9Emhab90YmZTvo0/lqgbtb74Cc1rbVUkYEzYxZu9th+k8DBc0OqqfSAt9AX/Pu /pPS29nIjPcagHAGUNCBwns+Cyjo6h2eCSzqAl7AC3gBz1epPAWOFeNNH8uK73sbtQe1wGRDpWkF 1H+0TXs6txIwMnZxgbH4TgDVLnVXibEtqIV5aGN+p85NEfbAizkVR+7PAxXIyxiT42W77teOSO1G b/DsnYbF91PK/vsLc5FLl5zJYr0AAAAASUVORK5CYII= "
        id="image1015"
        x="2"
        y="2" />

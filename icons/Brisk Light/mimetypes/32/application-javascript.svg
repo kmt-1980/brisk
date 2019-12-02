@@ -23,11 +23,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>text-x-javascript</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#1e2023"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,14 +39,22 @@
      inkscape:window-width="3840"
      inkscape:window-height="2012"
      id="namedview20"
-     showgrid="false"
-     inkscape:zoom="27.515625"
+     showgrid="true"
+     inkscape:zoom="55.15625"
      inkscape:cx="16"
-     inkscape:cy="14.972065"
+     inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
+     inkscape:current-layer="svg18">
+    <inkscape:grid
+       type="xygrid"
+       id="grid820"
+       color="#6e6e6e"
+       opacity="0.1254902"
+       empcolor="#6e6e6e"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
   <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">text-x-javascript</title>

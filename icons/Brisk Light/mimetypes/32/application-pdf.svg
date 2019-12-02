@@ -28,7 +28,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#1e2023"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -41,7 +41,7 @@
      id="namedview17"
      showgrid="true"
      inkscape:zoom="27.515625"
-     inkscape:cx="4.8021082"
+     inkscape:cx="-4.8651263"
      inkscape:cy="20.11174"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -49,7 +49,11 @@
      inkscape:current-layer="svg15">
     <inkscape:grid
        type="xygrid"
-       id="grid826" />
+       id="grid826"
+       color="#6e6e6e"
+       opacity="0.1254902"
+       empcolor="#6e6e6e"
+       empopacity="0.25098039" />
   </sodipodi:namedview>
   <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
   <title
@@ -64,15 +68,7 @@
        width="27"
        height="30"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU
-SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2
-OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO
-uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY
-Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X
-f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20
-BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW
-sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
        id="image1000"
        x="2.5"
        y="2" />
