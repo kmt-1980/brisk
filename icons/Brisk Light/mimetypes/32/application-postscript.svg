@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="application-atom+xml.svg"
+   sodipodi:docname="application-postscript.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>application-rss+xml</dc:title>
+        <dc:title>text-x-javascript</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="27.578125"
-     inkscape:cx="-22.581303"
+     inkscape:cx="-8.1133146"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -49,7 +49,7 @@
      inkscape:current-layer="svg18">
     <inkscape:grid
        type="xygrid"
-       id="grid821"
+       id="grid820"
        color="#6e6e6e"
        opacity="0.1254902"
        empcolor="#6e6e6e"
@@ -57,50 +57,35 @@
   </sodipodi:namedview>
   <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title2">application-rss+xml</title>
+     id="title2">text-x-javascript</title>
   <desc
      id="desc4">Created with Sketch.</desc>
   <defs
      id="defs6" />
   <g
-     id="g888"
-     transform="translate(-4.7683716e-7,0.5370003)">
+     id="g900">
     <image
        width="27"
        height="30"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
-       id="image1000"
-       x="2.5000005"
-       y="1.4629997" />
-    <g
-       id="g852">
-      <path
-         style="fill:#fe6500;fill-rule:evenodd;stroke:none;stroke-width:1"
-         inkscape:connector-curvature="0"
-         id="path14361"
-         d="M 26,29 H 6 C 5,29 5,28 5,28 V 4 C 5,4 5,3 6,3 h 14 l 7,7 v 18 c 0,1 -1,1 -1,1 z" />
-      <path
-         style="fill:#ff9952;fill-rule:evenodd;stroke:none;stroke-width:1"
-         inkscape:connector-curvature="0"
-         id="path14363"
-         d="M 21,10.018667 C 20,10.018667 20,9 20,9 V 3 l 7,7.018667 z" />
-      <circle
-         id="Oval-2"
-         cx="8.5"
-         cy="25.5"
-         r="1.5"
-         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:1" />
-      <path
-         d="m 7,20 v 1.4 c 3.092795,0 5.6,2.507205 5.6,5.6 H 14 c 0,-3.865993 -3.134007,-7 -7,-7 z"
-         id="Oval-3"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:1" />
-      <path
-         d="m 7,16 v 1.375 c 5.315741,0 9.625,4.309259 9.625,9.625 H 18 C 18,20.924868 13.075132,16 7,16 Z"
-         id="path14"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:1" />
-    </g>
+       id="image1000-3"
+       x="2.5"
+       y="2" />
+    <path
+       d="m 26.05439,29.537 h -20 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 h 14 l 7,6.9999997 v 18 c 0,1 -1,1 -1,1 z"
+       id="path14361-6"
+       inkscape:connector-curvature="0"
+       style="fill:#d70751;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       d="m 21.05439,10.555667 c -1,0 -1,-1.018667 -1,-1.018667 V 3.5370003 l 7,7.0186667 z"
+       id="path14363-7"
+       inkscape:connector-curvature="0"
+       style="fill:#ff5491;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       style="fill:#fffcf9"
+       inkscape:connector-curvature="0"
+       d="m 11.05439,12.383569 v 4 h -1 v 6 h 3 v 2 h 6 v -2 h 3 v -6 h -1 v -4 z m 1,1 h 8 v 3 h -1 v -1 h -6 v 1 h -1 z m 1,0 v 1 h 6 v -1 z m -2,4 h 10 v 4 h -1 v -1 h -8 v 1 h -1 z m 7,1 v 1 h 2 v -1 z m -4,4 h 4 v 1 h -4 z"
+       id="path33" />
   </g>
 </svg>
