@@ -3,7 +3,7 @@ BackgroundNormal=57,60,63
 ForegroundNormal=214,214,214
 
 [Colors:View]
-ForegroundNormal=255,0,0
+ForegroundNormal=255,255,255
 
 [Colors:Selection]
 BackgroundNormal=0,145,222 
