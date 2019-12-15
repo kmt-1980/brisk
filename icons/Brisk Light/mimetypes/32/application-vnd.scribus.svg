@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="application-sxw.svg"
+   sodipodi:docname="application-vnd.scribus.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -40,9 +40,9 @@
      inkscape:window-height="2012"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="27.578125"
-     inkscape:cx="-39.782578"
-     inkscape:cy="16"
+     inkscape:zoom="19.500679"
+     inkscape:cx="16"
+     inkscape:cy="12.923184"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -61,31 +61,59 @@
   <desc
      id="desc4">Created with Sketch.</desc>
   <defs
-     id="defs6" />
+     id="defs6">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90453403,0,0,1.1055416,-47,17)"
+       x1="21.249841"
+       y1="9.0383833"
+       x2="14.583429"
+       y2="23.517885"
+       id="linearGradient-1">
+      <stop
+         stop-color="#FFFFFF"
+         stop-opacity="0"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#FFFFFF"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+  </defs>
   <g
-     id="g915">
+     id="g836">
     <image
        width="27"
        height="30"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
-       id="image1000"
-       x="2.5000005"
-       y="2" />
+       id="image1000-3"
+       x="2.5"
+       y="2.0371094" />
     <path
-       style="fill:#1bb2fb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+       d="M 26,29.888563 H 5.9999999 c -1,0 -1,-1 -1,-1 v -24 c 0,0 0,-1 1,-1 H 19.999999 l 7.000001,7 v 18 c 0,1 -1,1 -1,1 z"
+       id="path14361-6"
        inkscape:connector-curvature="0"
-       d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 v -24 c 0,0 0,-1 1,-1 h 14 l 7,7 v 18 c 0,1 -1,1 -1,1 z"
-       id="path14361-3" />
+       style="fill:#479bd0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:0.5"
+       d="m 20.999999,10.90723 c -1,0 -1,-1.018667 -1,-1.018667 v -6 L 27,10.90723 Z"
+       id="path14363-7"
        inkscape:connector-curvature="0"
-       d="m 21,10.555667 c -1,0 -1,-1.018667 -1,-1.018667 v -6 l 7,7.018667 z"
-       id="path14363-6" />
-    <path
-       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       inkscape:connector-curvature="0"
-       d="m 10,12 v 1 h 6 v -1 z m 0,3 v 1 h 12 v -1 z m 0,3 v 1 h 5 v -1 z m 6,0 v 6 h 6 v -6 z m 1,1 h 4 v 4 h -4 z m -7,1 v 1 h 5 v -1 z m 0,3 v 1 h 5 v -1 z"
-       id="path31-3" />
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <g
+       transform="translate(47,-16.44938)"
+       id="g868">
+      <path
+         style="opacity:0.6434818;fill:url(#linearGradient-1);fill-rule:evenodd;stroke:none;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m -32.615216,21 c 0.867216,1.820689 1.734506,5.728048 -3.787358,9.635407 C -43.958722,35.982258 -32.6245,43 -32.6245,43 c 0,0 -8.406197,-9.583468 11.6245,-13.962367"
+         id="Path-2" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m -32.5,43.007739 c 0,0 1.266716,-4.140273 2.926169,-5.532719 0,0 0.04036,-2.529036 3.62518,-6.285604 0,0 0.886387,-0.82694 1.355379,-2.052192 0.624955,-0.940261 1.198315,-0.256956 1.198315,-0.256956 0,0 0.417397,0.398313 0.01123,0.90547 -0.406166,0.507159 -1.175855,2.067899 -1.175855,2.067899 0,0 -1.501211,4.752899 -3.886612,6.172282 -1.073765,0.900994 -0.914423,2.18122 -0.914423,2.18122 z"
+         id="Path" />
+    </g>
   </g>
 </svg>
