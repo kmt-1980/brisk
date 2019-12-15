@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="application-vnd-google-earth-kml.svg"
+   sodipodi:docname="application-vnd.oasis.opendocument.database.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -40,9 +40,9 @@
      inkscape:window-height="2012"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="27.578125"
-     inkscape:cx="-26.904153"
-     inkscape:cy="16"
+     inkscape:zoom="13.789063"
+     inkscape:cx="-30.980319"
+     inkscape:cy="9.9921436"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,26 +63,26 @@
   <defs
      id="defs6" />
   <image
-     y="2"
-     x="2.5000005"
-     id="image1000"
+     y="2.0371094"
+     x="1.9997027"
+     id="image1000-3"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
      preserveAspectRatio="none"
      height="30"
      width="27" />
   <path
-     id="path14361-3"
-     d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 v -24 c 0,0 0,-1 1,-1 h 14 l 7,7 v 18 c 0,1 -1,1 -1,1 z"
+     style="fill:#8542c2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
      inkscape:connector-curvature="0"
-     style="fill:#cf74e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+     id="path14361-6"
+     d="M 25.499703,29.888563 H 5.4997025 c -1,0 -1,-1 -1,-1 v -24 c 0,0 0,-1 1,-1 H 19.499702 l 7.000001,7 v 18 c 0,1 -1,1 -1,1 z" />
   <path
-     id="path14363-6"
-     d="m 21,10.555667 c -1,0 -1,-1.018667 -1,-1.018667 v -6 l 7,7.018667 z"
+     style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
      inkscape:connector-curvature="0"
-     style="fill:#fffffb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:0.5" />
+     id="path14363-7"
+     d="m 20.499702,10.90723 c -1,0 -1,-1.018667 -1,-1.018667 v -6 l 7.000001,7.018667 z" />
   <path
-     id="path29"
-     d="m 16.7795,12 -2.947,11 h 1.039 l 2.982,-10.992 z m -4.512,2 -2.961,3.145 -0.324,0.348 0.324,0.346 2.943,3.162 0.715,-0.695 -2.621,-2.813 2.639,-2.797 z m 7.465,0.283 -0.715,0.695 2.639,2.797 -2.621,2.813 0.715,0.695 2.943,-3.162 0.324,-0.346 -0.324,-0.348 z"
+     id="path31"
+     d="m 15.499703,12.89648 a 6,2 0 0 0 -6.0000002,2 v 8 a 6,2 0 0 0 6.0000002,2 6,2 0 0 0 6,-2 v -8 a 6,2 0 0 0 -6,-2 m 0,1 a 5,1 0 0 1 5,1 5,1 0 0 1 -5,1 5,1 0 0 1 -5,-1 5,1 0 0 1 5,-1 m -5,2.10156 a 6,2 0 0 0 5,0.89844 6,2 0 0 0 5,-0.89648 v 2.896 a 5,1 0 0 1 -5,1 5,1 0 0 1 -5,-1 z m 0,4 a 6,2 0 0 0 5,0.89844 6,2 0 0 0 5,-0.89648 v 2.896 a 5,1 0 0 1 -5,1 5,1 0 0 1 -5,-1 z"
      inkscape:connector-curvature="0"
-     style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
+     style="color:#4d4d4d;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
 </svg>

@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="27.578125"
-     inkscape:cx="11.177337"
+     inkscape:cx="1.5320112"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -84,7 +84,7 @@
          id="path14363-6"
          d="M -30,3.0186667 C -31,3.0186667 -31,2 -31,2 v -6 l 7,7.0186667 z"
          inkscape:connector-curvature="0"
-         style="fill:#7cb9ff;fill-rule:evenodd;stroke:none;stroke-width:1" />
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1;opacity:0.5" />
       <polygon
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1"
          id="Rectangle-11"

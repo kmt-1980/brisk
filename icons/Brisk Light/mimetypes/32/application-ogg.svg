@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="27.578125"
-     inkscape:cx="1.5320112"
+     inkscape:cx="-8.1133146"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -81,7 +81,7 @@
        d="m 21.05439,10.555667 c -1,0 -1,-1.018667 -1,-1.018667 V 3.5370003 l 7,7.0186667 z"
        id="path14363-7"
        inkscape:connector-curvature="0"
-       style="fill:#caff76;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="fill:#ffffec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:0.5" />
     <path
        id="Rectangle"
        d="m 11.05439,23.537 c 0.553053,0 1,0.503397 1,1.128661 v 0.742678 c 0,0.625774 -0.444736,1.128661 -1,1.128661 -0.553053,0 -1,-0.503397 -1,-1.128661 v -0.742678 c 0,-0.625774 0.444736,-1.128661 1,-1.128661 z m -2,1.912599 c 0,1.154759 0.894301,2.087401 2,2.087401 1.109061,0 2,-0.932808 2,-2.087401 v -0.825198 c 0,-1.154759 -0.894301,-2.087401 -2,-2.087401 -1.109061,0 -2,0.932808 -2,2.087401 z"

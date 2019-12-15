@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg15"
-   sodipodi:docname="2.svg"
+   sodipodi:docname="application-dicom.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata19">
@@ -41,7 +41,7 @@
      id="namedview17"
      showgrid="true"
      inkscape:zoom="27.578125"
-     inkscape:cx="-3.2906516"
+     inkscape:cx="-12.935977"
      inkscape:cy="13.948789"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -84,7 +84,7 @@
          id="path14363"
          d="m -16,14.404239 c -1,0 -1,-1.018667 -1,-1.018667 V 7.3855718 l 7,7.0186672 z"
          inkscape:connector-curvature="0"
-         style="fill:#d3dff0;fill-rule:evenodd;stroke:none;stroke-width:1" />
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1;opacity:0.5" />
     </g>
     <path
        style="opacity:0.75;fill:#fbfbfb"

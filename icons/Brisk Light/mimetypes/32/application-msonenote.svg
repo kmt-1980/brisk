@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="55.15625"
-     inkscape:cx="1.5320112"
+     inkscape:cx="-3.2906517"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -77,7 +77,7 @@
      id="path14361"
      d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 H 20 L 27,10.537 v 18 c 0,1 -1,1 -1,1 z" />
   <path
-     style="fill:#b290b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:1"
+     style="fill:#fffff2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:0.5"
      inkscape:connector-curvature="0"
      id="path14363"
      d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z" />
