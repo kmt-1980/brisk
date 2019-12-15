@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="application-vnd.oasis.opendocument.drawing-template.svg"
+   sodipodi:docname="application-vnd.oasis.opendocument.drawing.template.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="39.001358"
-     inkscape:cx="16"
+     inkscape:cx="9.1797247"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,7 +63,8 @@
   <defs
      id="defs6" />
   <g
-     id="g840">
+     id="g840"
+     transform="translate(0.50029731)">
     <g
        id="g838">
       <image

@@ -40,9 +40,9 @@
      inkscape:window-height="2012"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="19.50068"
-     inkscape:cx="-40.837062"
-     inkscape:cy="9.9921436"
+     inkscape:zoom="27.578125"
+     inkscape:cx="16"
+     inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,8 @@
   <defs
      id="defs6" />
   <g
-     id="g889">
+     id="g889"
+     transform="translate(0.50029731)">
     <image
        width="27"
        height="30"

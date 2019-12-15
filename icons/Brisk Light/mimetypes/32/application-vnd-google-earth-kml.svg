@@ -40,8 +40,8 @@
      inkscape:window-height="2012"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="27.578125"
-     inkscape:cx="-26.904153"
+     inkscape:zoom="39.001358"
+     inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -62,27 +62,30 @@
      id="desc4">Created with Sketch.</desc>
   <defs
      id="defs6" />
-  <image
-     y="2"
-     x="2.5000005"
-     id="image1000"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
-     preserveAspectRatio="none"
-     height="30"
-     width="27" />
-  <path
-     id="path14361-3"
-     d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 v -24 c 0,0 0,-1 1,-1 h 14 l 7,7 v 18 c 0,1 -1,1 -1,1 z"
-     inkscape:connector-curvature="0"
-     style="fill:#cf74e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
-  <path
-     id="path14363-6"
-     d="m 21,10.555667 c -1,0 -1,-1.018667 -1,-1.018667 v -6 l 7,7.018667 z"
-     inkscape:connector-curvature="0"
-     style="fill:#fffffb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:0.5" />
-  <path
-     id="path29"
-     d="m 16.7795,12 -2.947,11 h 1.039 l 2.982,-10.992 z m -4.512,2 -2.961,3.145 -0.324,0.348 0.324,0.346 2.943,3.162 0.715,-0.695 -2.621,-2.813 2.639,-2.797 z m 7.465,0.283 -0.715,0.695 2.639,2.797 -2.621,2.813 0.715,0.695 2.943,-3.162 0.324,-0.346 -0.324,-0.348 z"
-     inkscape:connector-curvature="0"
-     style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
+  <g
+     id="g822">
+    <image
+       width="27"
+       height="30"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
+       id="image1000"
+       x="2.5000005"
+       y="2" />
+    <path
+       style="fill:#cf74e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+       inkscape:connector-curvature="0"
+       d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 v -24 c 0,0 0,-1 1,-1 h 14 l 7,7 v 18 c 0,1 -1,1 -1,1 z"
+       id="path14361-3" />
+    <path
+       style="fill:#fffffb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:0.5"
+       inkscape:connector-curvature="0"
+       d="m 21,10.555667 c -1,0 -1,-1.018667 -1,-1.018667 v -6 l 7,7.018667 z"
+       id="path14363-6" />
+    <path
+       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       inkscape:connector-curvature="0"
+       d="m 16.7795,12 -2.947,11 h 1.039 l 2.982,-10.992 z m -4.512,2 -2.961,3.145 -0.324,0.348 0.324,0.346 2.943,3.162 0.715,-0.695 -2.621,-2.813 2.639,-2.797 z m 7.465,0.283 -0.715,0.695 2.639,2.797 -2.621,2.813 0.715,0.695 2.943,-3.162 0.324,-0.346 -0.324,-0.348 z"
+       id="path29" />
+  </g>
 </svg>
