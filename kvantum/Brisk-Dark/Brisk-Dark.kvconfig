@@ -3,8 +3,8 @@ author=KMT
 comment=
 x11drag=all
 alt_mnemonic=true
-left_tabs=false
-attach_active_tab=false
+left_tabs=true
+attach_active_tab=true
 embedded_tabs=false
 mirror_doc_tabs=false
 group_toolbar_buttons=false
@@ -270,25 +270,25 @@ text.press.color=#ffffff
 text.focus.color=#ffffff
 
 [Tab]
-interior.element=tab
-text.margin.left=4
-text.margin.right=4
-text.margin.top=4
-text.margin.bottom=4
+interior.element=PanelButtonCommand
+text.margin.left=7
+text.margin.right=7
+text.margin.top=7
+text.margin.bottom=7
 frame.element=tab
 indicator.element=tab
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
-text.normal.color=#a0a2a4
-text.focus.color=#ffffff
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
+text.normal.color=#969696
+text.focus.color=#e6e6e6
 text.toggle.color=#ffffff
 frame.expansion=0
 text.bold=false
 
 [TabFrame]
-inherits=PanelButtonCommand
+
 frame.element=tabframe
 interior.element=tabframe
 frame.top=1
@@ -526,8 +526,14 @@ text.bold=false
 frame.expansion=0
 
 [TabBarFrame]
-frame=false
+inherits=GenericFrame
+frame=true
+frame.element=tabBarFrame
 interior=false
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 
 [ToolTip]
 frame.top=1
