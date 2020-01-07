@@ -13,8 +13,8 @@ BackgroundNormal=26,28,30
 ForegroundNormal=214,214,214
 
 [General]
-ColorScheme=
-Name=skism
+ColorScheme=BriskDark
+Name=Brisk Dark
 shadeSortColumn=true
 
 
