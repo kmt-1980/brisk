@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="application-x-krita.svg"
+   sodipodi:docname="image-tiff.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -40,9 +40,9 @@
      inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="27.578125"
-     inkscape:cx="6.3546742"
-     inkscape:cy="10.1983"
+     inkscape:zoom="13.789062"
+     inkscape:cx="-7.2858765"
+     inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,7 @@
   <defs
      id="defs6" />
   <g
-     id="g832">
+     id="g902">
     <image
        width="32"
        height="26"
@@ -76,16 +76,27 @@
        d="m 3.078562,8.537 v 20 c 0,1 1,1 1,1 h 24 c 0,0 1,0 1,-1 v -14 l -7,-7 h -18 c -1,0 -1,1 -1,1 z"
        id="path14361-9"
        inkscape:connector-curvature="0"
-       style="fill:#fc7676;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="fill:#d40e13;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
        d="m 22.059895,13.537 c 0,1 1.018667,1 1.018667,1 h 6 l -7.018667,-7 z"
        id="path14363-1"
        inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.80000001"
+       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;stroke-width:1.4545455;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        inkscape:connector-curvature="0"
-       d="m 9.5541127,11.535607 c -0.0328,-0.0024 -0.0584,0.0032 -0.0744,0.02 -0.5288,0.5288 6.7008003,7.1656 6.7008003,7.1656 l 2.7088,2.5776 c -0.8736,2.0384 1.864,2.0712 2.4544,3.1048 0.2592,0.4536 -0.056,1.0688 -0.528,1.1 0.9376,0.3096 2.2,-1.4904 1.82,-2.5072 -0.4528,-1.2136 -0.912,-1.74 -1.7744,-2.108 -0.356,-0.152 -1.26,-0.164 -1.576,0.0136 l -2.5104,-2.7752 c 0,0 -6.1944,-6.5024 -7.2240003,-6.5912 m 1.1416003,6.44 c -0.24,8e-4 -0.3136,0.348 -0.3136,0.8224 0.0456,0.9392 0.6392,3.6784 3.5888,5.6736 2.484,1.6808 7.0296,1.0744 6.956,0.1192 -0.9992,-1.2416 -2.672,-0.4672 -2.6936,-3.44 -0.972,0.0072 -2.0192,-0.144 -1.98,0.2648 0.1632,1.7144 -2.5544,0.4776 -3.608,-1.2704 -1.0576,-1.6 -1.6408,-2.172 -1.9496,-2.1704 m 3.8728,2.1144 c -0.1608,0 -0.2904,0.0528 -0.352,0.1592 -0.1224,0.212 0.076,0.5576 0.4448,0.7704 0.3688,0.2128 0.7672,0.2136 0.8896,8e-4 0.1224,-0.212 -0.0768,-0.5576 -0.4456,-0.7704 -0.1848,-0.1064 -0.5368,8e-4 -0.5368,-0.16"
-       id="path29-2" />
+       d="m 12.51529,12.262545 a 1.0909091,1.0909091 0 0 0 -1.090909,1.090909 1.0909091,1.0909091 0 0 0 1.090909,1.090909 1.0909091,1.0909091 0 0 0 1.090909,-1.090909 1.0909091,1.0909091 0 0 0 -1.090909,-1.090909 m 0,0.727273 a 0.36363636,0.36363636 0 0 1 0.363635,0.363636 0.36363636,0.36363636 0 0 1 -0.363635,0.363636 0.36363636,0.36363636 0 0 1 -0.363638,-0.363636 0.36363636,0.36363636 0 0 1 0.363638,-0.363636 m 6.90909,0.727272 -4.072728,4.058182 -1.890909,-1.876363 -4.3636355,4.363636 h 1.0225455 l 2.268364,-2.241455 1.024,-1.02109 1.137454,1.031272 0.801454,0.776728 4.072727,-3.925819 2.613819,2.471273 h 1.022545 z"
+       id="path27" />
+    <text
+       id="text1677"
+       y="27.019094"
+       x="9.2919006"
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666698px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+         y="27.019094"
+         x="9.2919006"
+         id="tspan1675"
+         sodipodi:role="line">TIFF</tspan></text>
   </g>
 </svg>
