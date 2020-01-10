@@ -40,8 +40,8 @@
      inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="9.7503395"
-     inkscape:cx="-34.566978"
+     inkscape:zoom="19.500679"
+     inkscape:cx="-7.2858765"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,7 +63,7 @@
   <defs
      id="defs6" />
   <g
-     id="g907">
+     id="g900">
     <image
        width="32"
        height="26"
@@ -76,7 +76,7 @@
        d="m 3.078562,8.537 v 20 c 0,1 1,1 1,1 h 24 c 0,0 1,0 1,-1 v -14 l -7,-7 h -18 c -1,0 -1,1 -1,1 z"
        id="path14361-9"
        inkscape:connector-curvature="0"
-       style="fill:#f2793a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="fill:#8542c2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
        d="m 22.059895,13.537 c 0,1 1.018667,1 1.018667,1 h 6 l -7.018667,-7 z"
        id="path14363-1"
@@ -90,13 +90,13 @@
     <text
        id="text1677"
        y="27.019094"
-       x="9.4352379"
+       x="8.8285675"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666698px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
          y="27.019094"
-         x="9.4352379"
+         x="8.8285675"
          id="tspan1675"
-         sodipodi:role="line">TGA</tspan></text>
+         sodipodi:role="line">PNG</tspan></text>
   </g>
 </svg>
