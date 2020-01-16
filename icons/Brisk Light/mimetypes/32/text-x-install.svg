@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="text-x-csharp.svg"
+   sodipodi:docname="text-x-install.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="19.511728"
-     inkscape:cx="-11.646812"
+     inkscape:cx="-38.912464"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -61,32 +61,7 @@
   <desc
      id="desc4">Created with Sketch.</desc>
   <defs
-     id="defs6">
-    <linearGradient
-       id="a"
-       y1="61"
-       y2="3"
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5,0,0,-0.48276,-59,14.45)">
-      <stop
-         stop-color="#03c9a9"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-color="#36d7b7"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#a"
-       id="linearGradient906"
-       x1="12"
-       y1="30"
-       x2="12"
-       y2="3"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs6" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -98,7 +73,7 @@
        x="-52"
        y="15.4375" /></text>
   <g
-     id="g914">
+     id="g868">
     <image
        width="27"
        height="30"
@@ -111,16 +86,26 @@
        d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 H 20 L 27,10.537 v 18 c 0,1 -1,1 -1,1 z"
        id="path14361"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient906);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="fill:#00ac74;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
        d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z"
        id="path14363-3"
        inkscape:connector-curvature="0"
-       style="opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 13.5,13 8e-5,11 M 18.5,13 v 11 m -8,-2.998055 h 11 m -11,-5.000015 11,4e-6"
-       style="fill:#127666;fill-opacity:1;fill-rule:evenodd;stroke:#127666;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="path17-5" />
+       style="opacity:1;fill:#0ce9a1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <g
+       transform="translate(65,4)"
+       id="g860">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1"
+         id="Oval"
+         cx="-49"
+         cy="14"
+         r="6.5" />
+      <polygon
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+         id="Combined-Shape"
+         points="18,17 18,13 14,13 14,17 11.5,17 16,22 20.5,17 "
+         transform="translate(-65,-3)" />
+    </g>
   </g>
 </svg>

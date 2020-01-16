@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="3840"
-     inkscape:window-height="2012"
+     inkscape:window-height="2013"
      id="namedview22"
      showgrid="true"
-     inkscape:zoom="27.515625"
-     inkscape:cx="7.5885825"
-     inkscape:cy="17.058194"
+     inkscape:zoom="27.59375"
+     inkscape:cx="21.930007"
+     inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,51 +64,50 @@
      id="defs11">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1052">
-      <stop
-         style="stop-color:#eff0f1;stop-opacity:1;"
-         offset="0"
-         id="stop1048" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.96946567"
-         offset="1"
-         id="stop1050" />
-    </linearGradient>
+       xlink:href="#linearGradient829"
+       id="linearGradient831"
+       x1="13"
+       y1="30"
+       x2="13"
+       y2="4"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1052"
-       id="linearGradient1054"
-       x1="-13"
-       y1="5"
-       x2="-13"
-       y2="29"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(28)" />
+       id="linearGradient829">
+      <stop
+         style="stop-color:#e6e8ec;stop-opacity:1"
+         offset="0"
+         id="stop825" />
+      <stop
+         style="stop-color:#f0f2f6;stop-opacity:1"
+         offset="1"
+         id="stop827" />
+    </linearGradient>
   </defs>
   <g
-     id="g1068">
+     id="g857">
     <image
-       width="28"
+       width="27"
        height="30"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAeCAYAAAA/xX6fAAAABHNCSVQICAgIfAhkiAAAAS1JREFU SIntltFugzAMRU9I6Pr/P9t2DLIHfMGDiJVQ3rhSRFBin9hRZAdmBTfP7Ndb9tFtbmzUgBrzFRfg IlAGLZDsf9g6ZQEYzf7GHETRXsAEfJkBQF8BvDkfjdmvfCiixuatwTbTUtBgdpgPBfIAfnAZ04JO GM2ws0175a9Hvv9Emhab90YmZTvo0/lqgbtb74Cc1rbVUkYEzYxZu9th+k8DBc0OqqfSAt9AX/Pu /pPS29nIjPcagHAGUNCBwns+Cyjo6h2eCSzqAl7AC3gBz1epPAWOFeNNH8uK73sbtQe1wGRDpWkF 1H+0TXs6txIwMnZxgbH4TgDVLnVXibEtqIV5aGN+p85NEfbAizkVR+7PAxXIyxiT42W77teOSO1G b/DsnYbF91PK/vsLc5FLl5zJYr0AAAAASUVORK5CYII= "
-       id="image1015"
-       x="2"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
+       id="image1000"
+       x="2.5000005"
        y="2" />
     <path
-       d="M 26,29.543441 H 6 c -1,0 -1,-1 -1,-1 V 4.5434412 c 0,0 0,-1 1,-1 h 14 l 7,6.9999998 v 18 c 0,1 -1,1 -1,1 z"
-       id="path14361"
-       style="fill:url(#linearGradient1054);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 21,10.562108 c -1,0 -1,-1.0186668 -1,-1.0186668 v -6 l 7,7.0186668 z"
-       id="path14363"
+       d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 H 20 L 27,10.537 v 18 c 0,1 -1,1 -1,1 z"
+       id="path14361-3"
        inkscape:connector-curvature="0"
-       style="fill:#fcfdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="fill:url(#linearGradient831);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
-       style="fill:#949596;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+       d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z"
+       id="path14363-3"
        inkscape:connector-curvature="0"
-       id="Combined-Shape"
-       d="m 24,12.543441 v 1 H 8 v -1 z m 0,3 v 1 H 8 v -1 z m 0,3 v 1 H 8 v -1 z m 0,3 v 1 H 8 v -1 z m 0,3 v 1 H 8 v -1 z" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       id="path25"
+       d="m 10,23 v -1 h 6 v 1 z m 0,-2 v -1 h 12 v 1 z m 0,-3 v -1 h 8 v 1 z m 0,-2 v -1 h 12 v 1 z m 0,-2 v -1 h 12 v 1 z"
+       inkscape:connector-curvature="0"
+       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#949596;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
   </g>
 </svg>

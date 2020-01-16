@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="19.511728"
-     inkscape:cx="-7.2726905"
+     inkscape:cx="-34.538343"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,6 +63,18 @@
   <defs
      id="defs6">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient829">
+      <stop
+         style="stop-color:#b4b6ba;stop-opacity:1"
+         offset="0"
+         id="stop825" />
+      <stop
+         style="stop-color:#dcdee2;stop-opacity:1"
+         offset="1"
+         id="stop827" />
+    </linearGradient>
+    <linearGradient
        id="a"
        gradientTransform="matrix(0.54545384,0,0,0.53846154,-257.35718,-265.04508)"
        gradientUnits="userSpaceOnUse"
@@ -74,19 +86,19 @@
          offset="0"
          stop-color="#7f8c8d"
          id="stop2"
-         style="stop-color:#9daaab;stop-opacity:1" />
+         style="stop-color:#bbc8c9;stop-opacity:1" />
       <stop
          offset="1"
          stop-color="#afb0b3"
          id="stop4"
-         style="stop-color:#cdced1;stop-opacity:1" />
+         style="stop-color:#ebecef;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#a"
-       id="linearGradient889"
-       x1="12.501698"
-       y1="29.474712"
+       xlink:href="#linearGradient829"
+       id="linearGradient831"
+       x1="13"
+       y1="30"
        x2="13"
        y2="4"
        gradientUnits="userSpaceOnUse" />
@@ -100,12 +112,12 @@
      height="30"
      width="27" />
   <path
-     style="fill:url(#linearGradient889);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+     style="fill:url(#linearGradient831);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
      inkscape:connector-curvature="0"
      id="path14361"
      d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 H 20 L 27,10.537 v 18 c 0,1 -1,1 -1,1 z" />
   <path
-     style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
      inkscape:connector-curvature="0"
      id="path14363-3"
      d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z" />
