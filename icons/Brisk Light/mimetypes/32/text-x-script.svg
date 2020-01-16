@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="message-news.svg"
+   sodipodi:docname="text-x-script.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -40,8 +40,8 @@
      inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="9.7558639"
-     inkscape:cx="-75.436823"
+     inkscape:zoom="19.511728"
+     inkscape:cx="-17.068097"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -61,31 +61,19 @@
   <desc
      id="desc4">Created with Sketch.</desc>
   <defs
-     id="defs6">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient849">
-      <stop
-         style="stop-color:#5e6b78;stop-opacity:1;"
-         offset="0"
-         id="stop845" />
-      <stop
-         style="stop-color:#768492;stop-opacity:1"
-         offset="1"
-         id="stop847" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient849"
-       id="linearGradient851"
-       x1="12"
-       y1="27"
-       x2="12"
-       y2="6"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs6" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="-52"
+     y="6"
+     id="text855"><tspan
+       sodipodi:role="line"
+       id="tspan853"
+       x="-52"
+       y="15.4375" /></text>
   <g
-     id="g895">
+     id="g910">
     <image
        width="27"
        height="30"
@@ -98,16 +86,16 @@
        d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 H 20 L 27,10.537 v 18 c 0,1 -1,1 -1,1 z"
        id="path14361"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient851);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="fill:#de434e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
        d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z"
        id="path14363-3"
        inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="opacity:1;fill:#ff736e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
-       style="fill:#fbfbfb"
+       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        inkscape:connector-curvature="0"
-       d="m 11,12 v 3 H 9 v 7.5 C 9,23.331 9.669,24 10.5,24 H 23 V 12 H 12 Z m 1,1 H 22 V 23 H 12 v -8 z m 1,1 v 1 h 8 v -1 z m -3,2 h 1 v 7 H 10.5 C 10.223,23 10,22.777 10,22.5 v -0.6 z m 3,0 v 4 h 4 v -4 z m 5,0 v 1 h 3 v -1 z m 0,3 v 1 h 3 v -1 z m -5,2 v 1 h 8 v -1 z"
-       id="path33" />
+       d="M 11.715,12.508 11,13.203 13.639,16 11.018,18.813 11.733,19.508 14.676,16.346 15,16 14.676,15.652 Z m 3.285,9 v 1 h 6 v -1 z"
+       id="path29" />
   </g>
 </svg>
