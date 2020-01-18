@@ -37,11 +37,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="3840"
-     inkscape:window-height="2012"
+     inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="27.578125"
-     inkscape:cx="16"
+     inkscape:cx="6.3546742"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -61,58 +61,7 @@
   <desc
      id="desc4">Created with Sketch.</desc>
   <defs
-     id="defs6">
-    <linearGradient
-       id="b"
-       y1="17"
-       y2="24"
-       x1="47"
-       x2="54"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-62,-8.998)">
-      <stop
-         stop-color="#060606"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       id="a"
-       y1="392.35999"
-       y2="365.35999"
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-138.60963,-364.90191)">
-      <stop
-         stop-color="#ffffff"
-         stop-opacity="0"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-color="#ffffff"
-         stop-opacity=".2"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient63"
-       y1="392.35999"
-       y2="365.35999"
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(309.57,152.44)">
-      <stop
-         stop-color="#ffffff"
-         stop-opacity="0"
-         id="stop59" />
-      <stop
-         offset="1"
-         stop-color="#ffffff"
-         stop-opacity=".2"
-         id="stop61" />
-    </linearGradient>
-  </defs>
+     id="defs6" />
   <g
      id="g845">
     <image
@@ -134,7 +83,7 @@
        style="color:#000000;opacity:0.15;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;stroke-width:0.75000012;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#99581d;fill-opacity:1;stroke-width:0.75000012;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        inkscape:connector-curvature="0"
        d="m 12.75,13.357334 v 2.25 h 0.75 v 1.2375 A 1.1250046,1.1250046 0 0 0 12.75,17.903917 1.1250046,1.1250046 0 0 0 13.5,18.963 v 1.14375 h -0.75 v 2.25 H 15 V 21 a 5.2499962,4.5000006 0 0 0 3.75,1.356442 v -0.75 A 4.4999976,3.750008 0 0 1 14.422853,18.883297 1.1250046,1.1250046 0 0 0 15,17.903317 1.1250046,1.1250046 0 0 0 14.400878,16.911614 4.4999976,3.750008 0 0 1 18.75,14.106441 v -0.75 A 5.2499962,4.5000006 0 0 0 15,14.708489 v -1.35225 z m 0.75,0.75 h 0.75 v 0.75 H 13.5 Z m 0,6.750001 h 0.75 v 0.75 H 13.5 Z"
        id="path33" />
@@ -142,6 +91,6 @@
        d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z"
        id="path14363-3"
        inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#ffffef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="opacity:1;fill:#a46022;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
   </g>
 </svg>

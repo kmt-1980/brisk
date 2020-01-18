@@ -37,11 +37,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="3840"
-     inkscape:window-height="2012"
+     inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="27.578125"
-     inkscape:cx="-3.2906516"
+     inkscape:cx="-22.581303"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,34 +63,37 @@
   <defs
      id="defs6" />
   <g
-     id="g830">
-    <image
-       width="27"
-       height="30"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
-       id="image1000-3"
-       x="2.5"
-       y="2.0371094" />
-    <path
-       d="M 26,29.888563 H 5.9999998 c -1,0 -1,-1 -1,-1 v -24 c 0,0 0,-1 1,-1 H 19.999999 l 7.000001,7 v 18 c 0,1 -1,1 -1,1 z"
-       id="path14361-6"
-       inkscape:connector-curvature="0"
-       style="fill:#f89406;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
-    <path
-       d="m 20.999999,10.90723 c -1,0 -1,-1.018667 -1,-1.018667 v -6 L 27,10.90723 Z"
-       id="path14363-7"
-       inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+     id="g845">
+    <g
+       id="g890">
+      <image
+         y="2"
+         x="2.5000005"
+         id="image1000"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAYAAADdGWXmAAAABHNCSVQICAgIfAhkiAAAAWhJREFU SIntlmFPgzAQhp8Csm666P//k5rolgmD+qHvSYdDC8FvvEmzhPTuaa+X3euIctwqkC83+g1T8aU2 OeABqGbCLLZWfPlbfAkU2ngA9vreZwKdDrgHjoBPYP0UzAPPwKM2Nfc2/wF7EbBS7HV84CoJ8MAO uOgAueqUuCOWs1bOAJxSaHqzI7GcF+Cs4FxZ2e2WOwE7rWA3SzXuyhwFoAU+GBrmSHyWXusMdGPY Etm7NMB7AnwivmOr1a8BuwcsGEp60LdmTiPkAIOAJ2LpekFLwK0JS4EdsXTWZA7mtfgcoHXnzV/X f8AmtcE22AbbYMuVjhibQ0Wy5li6NI/FW84fMHNZnjiDSvJMz1gF0RZ45WsMOPaJnmHwNSy/WU20 BjVxtvUGM9vVEOeP1/dvo7IAVipHq7xXZAtsur5pszmjJaAUGIBP4FX5gz2g2e+awUsucVomG5pW sdZgdhIYOmgtpTY8fAHNF2XFmg89HgAAAABJRU5ErkJggg== "
+         preserveAspectRatio="none"
+         height="30"
+         width="27" />
+      <path
+         style="fill:#ff8b23;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+         inkscape:connector-curvature="0"
+         id="path14361"
+         d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 H 20 L 27,10.537 v 18 c 0,1 -1,1 -1,1 z" />
+      <path
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+         inkscape:connector-curvature="0"
+         id="path14363-3"
+         d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z" />
+      <path
+         id="path29"
+         d="m 10,11.475 v 2 H 9 v 11 h 14 v -11 h -1 v -2 z m 1,1 h 10 v 1 H 11 Z m -1,2 h 12 v 9 H 10 Z m 4,2 v 5 L 18.61,19 Z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
+    </g>
     <path
        id="path17"
-       d="m 6.0019522,3.88861 c -0.996906,0 -0.99999,0.991897 -1,0.998047 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 2 H 5.0019522 v 1 h 1.9980469 v 1 h 1 v -1 h 2 v 1 h 0.9999999 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -1.978515 h -1 v 1.978515 h -2 v -1.978515 h -1 v 1.978515 h -2 v -2 h 0.841797 C 20.01097,10.778789 19.999999,9.88861 19.999999,9.88861 v -0.002 -2 -1 -2 -0.998047 z m 1.9980469,0.998047 h 2 v 2 h -2 z m 2.9999999,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 5,1.001953 v 0.0059 l 1.986328,1.992187 h 0.01172 l -0.998048,-1 z M 7.9999991,7.886657 h 2 v 2 h -2 z m 2.9999999,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 8,1.001953 v 0.01367 l 1.978516,1.984375 h 0.01953 l -0.998046,-1 z M 7.9999991,10.886657 h 2 v 2 h -2 z m 2.9999999,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -8.9999999,3 h 2 v 1.464844 0.535156 H 8.9472647 7.9999991 Z m 2.9999999,0 h 2 v 1.464844 0.535156 h -2 v -0.535156 z m 3,0 h 2 v 2 h -0.05273 -1.947266 v -0.535156 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -14.9999999,3 h 0.9472656 1.0527344 v 2 H 8.9472647 7.9999991 Z m 2.9999999,0 h 2 v 2 h -2 z m 3,0 h 1.947266 0.05273 v 2 h -0.05273 -1.947266 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -14.9999999,3 h 0.9472656 1.0527344 v 2 H 8.9472647 7.9999991 Z m 2.9999999,0 h 2 v 2 h -2 z m 3,0 h 1.947266 0.05273 v 2 h -0.05273 -1.947266 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -14.9999999,3 h 2 v 2 h -2 v -1 z m 2.9999999,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m -14.9999999,3 h 2 v 2 h -2 v -1 z m 2.9999999,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z"
+       d="m 6.001953,3.476953 c -0.996906,0 -0.99999,0.991897 -1,0.998047 H 7 v 2 H 5.001953 v 1 H 7 v 2 H 5.001953 v 1 H 7 v 2 H 5.001953 v 1 H 7 v 2 H 5.001953 v 1 H 7 v 2 H 5.001953 v 1 H 7 v 2 H 5.001953 v 1 H 7 v 2 H 5.001953 v 1 H 7 v 2 H 5.001953 v 1 H 7 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 H 26 V 10.496485 H 25 V 12.475 H 23 V 10.496485 H 22 V 12.475 h -2 v -2 h 0.841797 C 20.010971,10.367132 20,9.476953 20,9.476953 v -0.002 -2 -1 -2 -0.998047 z M 8,4.475 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 5,1.001953 v 0.0059 l 1.986328,1.992187 h 0.01172 L 23,6.47504 Z M 8,7.475 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 8,1.001953 v 0.01367 l 1.978516,1.984375 h 0.01953 L 26,9.474998 Z M 8,10.475 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -9,3 h 2 V 14.939844 15.475 H 8.947266 8 Z m 3,0 h 2 V 14.939844 15.475 h -2 v -0.535156 z m 3,0 h 2 v 2 h -0.05273 -1.947266 v -0.535156 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 H 8.947266 10 v 2 H 8.947266 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 1.947266 0.05273 v 2 H 15.947266 14 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 H 8.947266 10 v 2 H 8.947266 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 1.947266 0.05273 v 2 H 15.947266 14 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 h 2 v 2 H 8 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m -15,3 h 2 v 2 H 8 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z"
        style="color:#000000;opacity:0.15;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        inkscape:connector-curvature="0" />
-    <path
-       id="rect4149"
-       d="M 14,12.996556 H 9.0000001 v 11 H 15 v 1 h 2 v -1 h 6 v -11 h -5 v -1 h -4 z m -4,1 h 12 v 9 H 10 Z m 1,1 v 1 h 10 v -1 z m 0,7 h 5 v -3 h -1 v 2 h -1 v -3 h -1 v 3 h -1 v -4 h -1 z m 6,0 h 4 v -5 h -4 z m 3,-4 v 3 l -1,-2 -1,2 v -3 z"
-       inkscape:connector-curvature="0"
-       style="fill:#ebebeb;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1" />
   </g>
 </svg>
