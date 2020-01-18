@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg18"
-   sodipodi:docname="application-pgp-encrypted.svg"
+   sodipodi:docname="encrypted.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -37,11 +37,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="3840"
-     inkscape:window-height="2012"
+     inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="27.578125"
-     inkscape:cx="-5.6307501"
+     inkscape:cx="-15.276076"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -578,7 +578,7 @@
          transform="scale(-1,1)" />
     </g>
     <path
-       style="fill:#dddddd"
+       style="fill:#f5f5f5;fill-opacity:1"
        inkscape:connector-curvature="0"
        d="m 16.054396,11.414731 c -1.662,0 -3,1.338 -3,3 v 3 h -2 v 6 h 10 v -6 h -2 v -3 c 0,-1.662 -1.338,-3 -3,-3 m 0,1 c 1.247,0 2,0.546 2,2 v 3 h -4 v -3 c 0,-1.454 0.754,-2 2,-2"
        id="path189" />
