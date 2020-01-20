@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="application-xhtml+xml.svg"
@@ -41,8 +41,8 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="13.796875"
-     inkscape:cx="-52.015778"
-     inkscape:cy="-2.4461701"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,8 @@
   <defs
      id="defs6" />
   <g
-     id="g891">
+     id="g891"
+     transform="matrix(2,0,0,2,0,-0.07421875)">
     <image
        width="27"
        height="30"
@@ -83,7 +84,7 @@
        inkscape:connector-curvature="0"
        style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
-       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fff1ff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;fill-opacity:1"
+       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fff1ff;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        inkscape:connector-curvature="0"
        d="m 16.762,13.022 -2.947,11 h 1.039 L 17.836,13.03 Z m -4.512,2 -2.961,3.145 -0.324,0.348 0.324,0.346 2.943,3.162 0.715,-0.695 -2.621,-2.813 2.639,-2.797 z M 19.715,15.305 19,16 l 2.639,2.797 -2.621,2.813 0.715,0.695 2.943,-3.162 L 23,18.797 22.676,18.449 Z"
        id="path29" />

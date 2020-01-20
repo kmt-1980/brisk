@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="application-x-troff-man.svg"
@@ -40,9 +40,9 @@
      inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="27.578125"
-     inkscape:cx="-8.2600265"
-     inkscape:cy="16"
+     inkscape:zoom="13.796875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,8 @@
   <defs
      id="defs6" />
   <g
-     id="g880">
+     id="g880"
+     transform="scale(2)">
     <image
        width="27"
        height="30"
@@ -88,7 +89,7 @@
       <polygon
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1"
          id="Rectangle-22"
-         points="20.5,11.5 20.5,22.5 11.5,22.5 11.5,11.5 "
+         points="11.5,22.5 11.5,11.5 20.5,11.5 20.5,22.5 "
          transform="translate(-62,-1)" />
       <path
          inkscape:connector-curvature="0"

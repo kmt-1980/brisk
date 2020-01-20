@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
-   sodipodi:docname="audio-x-wav.svg"
+   sodipodi:docname="audio-mp3.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata22">
@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="3840"
-     inkscape:window-height="2012"
+     inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="19.500679"
-     inkscape:cx="-34.510119"
-     inkscape:cy="11.223906"
+     inkscape:zoom="13.796875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,8 @@
   <defs
      id="defs6" />
   <g
-     id="g826">
+     id="g826"
+     transform="scale(2)">
     <image
        width="29.5"
        height="29.5"
@@ -86,7 +87,7 @@
        id="path14573"
        d="M 15.977896,9.866591 V 9.749403 c 0,-0.228614 -0.166498,-0.413041 -0.34196,-0.412401 -0.174822,6.4e-4 -0.329793,0.186349 -0.330433,0.414962 l 0.0038,4.498219 c -0.443139,-0.229894 -1.014993,-0.245904 -1.669456,-0.02049 -0.963763,0.332354 -1.498476,1.242967 -1.223115,1.94994 0.275361,0.706333 1.267942,0.979772 2.217616,0.610276 0.778055,-0.302897 1.284591,-0.943271 1.291635,-1.552907 0.0064,-0.03202 0,-3.759227 0,-3.759227 1.788566,0.476439 2.078015,1.526012 2.078015,1.526012 0.313783,0.763967 -0.0634,1.706597 -0.0634,1.706597 0,0 -0.03138,0.117189 0.06084,0.154331 0.116548,0.04675 0.169699,-0.06468 0.169699,-0.06468 0.559687,-1.209667 0.216446,-2.168307 0.216446,-2.168307 -0.312502,-1.074549 -1.413946,-1.669456 -1.413946,-1.669456 -0.843373,-0.525747 -0.995782,-0.92406 -0.995782,-1.095681 z"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;opacity:1" />
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <text
        id="text1677"
        y="25.615608"

@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="application-x-zip.svg"
@@ -43,9 +43,9 @@
      inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="23.90625"
-     inkscape:cx="-31.121568"
-     inkscape:cy="10.896407"
+     inkscape:zoom="13.796875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -70,7 +70,7 @@
        gradientTransform="matrix(0.60474313,0,0,1.6630437,-8.9999996,6.46)"
        x1="13.228757"
        y1="7.1435285"
-       x2="0.86393177"
+       x2="0.86393178"
        y2="7.1435285"
        id="linearGradient-5">
       <stop
@@ -147,7 +147,8 @@
     </linearGradient>
   </defs>
   <g
-     id="g969">
+     id="g969"
+     transform="matrix(1.999964,0,0,1.999964,5.76e-4,0.001152)">
     <image
        width="29.367088"
        height="25.316456"
@@ -190,7 +191,7 @@
       <polygon
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
          id="Path"
-         points="0,0 0,1 2.6666666,1 0,4 0,5 4,5 4,4 1.3333333,4 4,1 4,0 "
+         points="4,1 4,0 0,0 0,1 2.6666666,1 0,4 0,5 4,5 4,4 1.3333333,4 "
          transform="translate(-77,18)" />
       <rect
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
