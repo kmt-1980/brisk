@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="x-office-contact.svg"
@@ -41,8 +41,8 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="13.796875"
-     inkscape:cx="-46.909256"
-     inkscape:cy="16"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,14 +66,15 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-52"
-     y="6"
+     y="38"
      id="text855"><tspan
        sodipodi:role="line"
        id="tspan853"
        x="-52"
-       y="15.4375" /></text>
+       y="47.4375" /></text>
   <g
-     id="g890">
+     id="g890"
+     transform="scale(2)">
     <image
        width="27"
        height="30"

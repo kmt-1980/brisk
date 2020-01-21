@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="virtualbox-vdi.svg"
@@ -40,9 +40,9 @@
      inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="19.511728"
-     inkscape:cx="-52.545289"
-     inkscape:cy="16"
+     inkscape:zoom="13.796875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -88,14 +88,15 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-52"
-     y="6"
+     y="38"
      id="text855"><tspan
        sodipodi:role="line"
        id="tspan853"
        x="-52"
-       y="15.4375" /></text>
+       y="47.4375" /></text>
   <g
-     id="g888">
+     id="g888"
+     transform="scale(2)">
     <image
        width="27"
        height="30"
@@ -115,7 +116,7 @@
        inkscape:connector-curvature="0"
        style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
-       style="fill:#fffff6;stroke-width:2;fill-opacity:1"
+       style="fill:#fffff6;fill-opacity:1;stroke-width:2"
        inkscape:connector-curvature="0"
        d="M 10,12 V 24 H 22 V 12 Z m 1,1 h 10 v 1 H 11 Z m 6,2 h 3 v 1 h -3 z m -6,2 h 10 v 2 H 11 Z m 6,3 h 3 v 1 h -3 z m -6,2 h 10 v 1 H 11 Z"
        id="path33-3" />
