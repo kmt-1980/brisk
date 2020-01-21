@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="image-x-vnd.trolltech.qpicture.svg"
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="9.7558639"
-     inkscape:cx="16"
+     inkscape:cx="-11.265653"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,7 +63,8 @@
   <defs
      id="defs6" />
   <g
-     id="g845">
+     id="g845"
+     transform="scale(2)">
     <image
        width="27"
        height="30"
@@ -79,7 +80,7 @@
        style="fill:#3cc362;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
        id="path17"
-       d="m 6.0019531,3.5371094 c -0.996906,0 -0.99999,0.9918968 -1,0.9980468 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 V 10.535156 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -1.978515 h -1 v 1.978515 h -2 v -1.978515 h -1 v 1.978515 h -2 v -2 h 0.841797 C 20.010971,10.427288 20,9.5371094 20,9.5371094 v -0.00195 -2 -1 -2 -0.9980468 z M 8,4.5351562 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 5,1.0019532 v 0.00586 l 1.986328,1.9921874 h 0.01172 L 23,6.5351562 Z M 8,7.5351562 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 8,1.0019532 v 0.013672 l 1.978516,1.9843748 h 0.01953 L 26,9.5351562 Z M 8,10.535156 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -9,3 h 2 V 15 15.535156 H 8.9472656 8 Z m 3,0 h 2 V 15 15.535156 H 11 V 15 Z m 3,0 h 2 v 2 H 15.947266 14 V 15 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 H 8.9472656 10 v 2 H 8.9472656 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 H 15.947266 16 v 2 H 15.947266 14 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 H 8.9472656 10 v 2 H 8.9472656 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 H 15.947266 16 v 2 H 15.947266 14 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 h 2 v 2 H 8 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m -15,3 h 2 v 2 H 8 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z"
+       d="m 6.0019531,3.5371094 c -0.996906,0 -0.99999,0.9918968 -1,0.9980468 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 V 10.535156 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 2 H 5.0019531 v 1 H 7 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -2 h 1 v -1 h -1 v -1.978515 h -1 v 1.978515 h -2 v -1.978515 h -1 v 1.978515 h -2 v -2 h 0.841797 C 20.010971,10.427288 20,9.5371094 20,9.5371094 v -0.00195 -2 -1 -2 -0.9980468 z M 8,4.5351562 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 5,1.0019532 v 0.00586 l 1.986328,1.9921874 h 0.01172 L 23,6.5351562 Z M 8,7.5351562 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 8,1.0019532 v 0.013672 l 1.978516,1.9843746 h 0.01953 L 26,9.5351562 Z M 8,10.535156 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -9,3 h 2 V 15 15.535156 H 8.9472656 8 Z m 3,0 h 2 V 15 15.535156 H 11 V 15 Z m 3,0 h 2 v 2 H 15.947266 14 V 15 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 H 8.9472656 10 v 2 H 8.9472656 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 H 15.947266 16 v 2 H 15.947266 14 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 H 8.9472656 10 v 2 H 8.9472656 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 H 15.947266 16 v 2 H 15.947266 14 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -15,3 h 2 v 2 H 8 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m -15,3 h 2 v 2 H 8 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z"
        style="color:#000000;opacity:0.15;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        inkscape:connector-curvature="0" />
     <path

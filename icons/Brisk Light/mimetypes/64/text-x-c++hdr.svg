@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="text-x-c++hdr.svg"
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="13.796875"
-     inkscape:cx="-47.699602"
+     inkscape:cx="-66.97933"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,7 +63,8 @@
   <defs
      id="defs6" />
   <g
-     id="g891">
+     id="g891"
+     transform="scale(2)">
     <image
        width="27"
        height="30"
@@ -87,7 +88,7 @@
        id="g881">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          x="-72.146095"
          y="13.985277"
          id="text847"><tspan
@@ -97,7 +98,7 @@
            y="13.985277">.h</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          x="-62.508492"
          y="9.1944971"
          id="text851"><tspan
@@ -105,17 +106,17 @@
            x="-62.508492"
            y="9.1944971"
            id="tspan857"
-           style="font-weight:bold;fill:#ffffff;fill-opacity:1;">++</tspan></text>
+           style="font-weight:bold;fill:#ffffff;fill-opacity:1">++</tspan></text>
     </g>
   </g>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-52"
-     y="6"
+     y="38"
      id="text855"><tspan
        sodipodi:role="line"
        id="tspan853"
        x="-52"
-       y="15.4375" /></text>
+       y="47.4375" /></text>
 </svg>

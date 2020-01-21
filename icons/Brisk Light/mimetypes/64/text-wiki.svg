@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="text-wiki.svg"
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="9.7558639"
-     inkscape:cx="-56.211451"
+     inkscape:cx="-83.477104"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -88,7 +88,8 @@
     </linearGradient>
   </defs>
   <g
-     id="g883">
+     id="g883"
+     transform="scale(2)">
     <image
        width="27"
        height="30"
@@ -101,7 +102,7 @@
        d="M 26,29.537 H 6 c -1,0 -1,-1 -1,-1 V 4.5370003 c 0,0 0,-1 1,-1 H 20 L 27,10.537 v 18 c 0,1 -1,1 -1,1 z"
        id="path14361"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient889);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1" />
+       style="fill:url(#linearGradient889);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <path
        d="m 21,10.555667 c -1,0 -1,-1.0186667 -1,-1.0186667 v -6 l 7,7.0186667 z"
        id="path14363-3"
