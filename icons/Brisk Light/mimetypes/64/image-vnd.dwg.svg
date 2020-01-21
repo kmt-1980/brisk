@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="image-vnd.dwg.svg"
@@ -40,9 +40,9 @@
      inkscape:window-height="2013"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="19.511728"
-     inkscape:cx="-35.859436"
-     inkscape:cy="-2.4461701"
+     inkscape:zoom="13.796875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,7 +64,8 @@
   <defs
      id="defs6" />
   <g
-     id="g859">
+     id="g859"
+     transform="matrix(2,0,0,2,0,-0.03710937)">
     <image
        width="27"
        height="30"

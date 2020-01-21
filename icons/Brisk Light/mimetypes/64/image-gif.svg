@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="image-gif.svg"
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="27.59375"
-     inkscape:cx="16"
+     inkscape:cx="6.3601359"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -113,7 +113,8 @@
     </linearGradient>
   </defs>
   <g
-     id="g1240">
+     id="g1240"
+     transform="scale(2)">
     <image
        width="32"
        height="25.316456"

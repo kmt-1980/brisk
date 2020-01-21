@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg18"
    sodipodi:docname="image-bmp.svg"
@@ -41,8 +41,8 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="19.500679"
-     inkscape:cx="6.3546742"
-     inkscape:cy="16"
+     inkscape:cx="-7.2858765"
+     inkscape:cy="26.256053"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -113,38 +113,42 @@
          id="stop90" />
     </linearGradient>
   </defs>
-  <image
-     y="6"
-     x="-2.4424907e-15"
-     id="image1014"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAcCAYAAADr9QYhAAAABHNCSVQICAgIfAhkiAAAAYlJREFU SIntl11zgjAQRU8QpWpt+///Zv2oIqYPuSsrBWfUYF+8MxlhTG4OmyVZAq0Cl4o8rq7nVe+JBhS6 nl4xuAckON9S94MPaTAlMAcWGhiBUwaYCVABS/lP5D0YmUIDPoAvXR+B+kEge8gF8Ams5I18/0CV DmouoAOwEeSj8hF+E5gt17fmagzKIjMTyLv+2AI/6nivfH4E0vJXaoUgGwd7jow3yJXABnIA1s53 pRZcv30fTG7ZMh1Iy4IgPtQiKT8boB4bxoAaB1SQgmBpsQF2wDFHkt4KtCHlZEPK1Rkpd7O8MbcA nUjLYm8RtHtdeCaMB7J95kLPhjH17sL/BdOrF8yQXjBDesEMqe9sCp2WU1e9y56OdpCVuMInI4x5 F10oDxNpi60lqeysRoCZyb+iU6CXtFuznRcVqRaekg61MSJjMHs3b7TIHEnH+lr3Bakm7j3QHoQp 1Paab6v5z5GpHYgVQGQG8UCQ8nGneWsgBteh+7E1tqzkrAUW/aQ+s58FY78R4BcIbG3ZpgsYQAAA AABJRU5ErkJggg== "
-     preserveAspectRatio="none"
-     height="26"
-     width="32" />
-  <path
-     style="fill:#c4bb1b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
-     inkscape:connector-curvature="0"
-     id="path14361-9"
-     d="m 3.078562,8.537 v 20 c 0,1 1,1 1,1 h 24 c 0,0 1,0 1,-1 v -14 l -7,-7 h -18 c -1,0 -1,1 -1,1 z" />
-  <path
-     style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
-     inkscape:connector-curvature="0"
-     id="path14363-1"
-     d="m 22.059895,13.537 c 0,1 1.018667,1 1.018667,1 h 6 l -7.018667,-7 z" />
-  <path
-     id="path27"
-     d="m 12.51529,12.262545 a 1.0909091,1.0909091 0 0 0 -1.090909,1.090909 1.0909091,1.0909091 0 0 0 1.090909,1.090909 1.0909091,1.0909091 0 0 0 1.090909,-1.090909 1.0909091,1.0909091 0 0 0 -1.090909,-1.090909 m 0,0.727273 a 0.36363636,0.36363636 0 0 1 0.363635,0.363636 0.36363636,0.36363636 0 0 1 -0.363635,0.363636 0.36363636,0.36363636 0 0 1 -0.363638,-0.363636 0.36363636,0.36363636 0 0 1 0.363638,-0.363636 m 6.90909,0.727272 -4.072728,4.058182 -1.890909,-1.876363 -4.3636355,4.363636 h 1.0225455 l 2.268364,-2.241455 1.024,-1.02109 1.137454,1.031272 0.801454,0.776728 4.072727,-3.925819 2.613819,2.471273 h 1.022545 z"
-     inkscape:connector-curvature="0"
-     style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;stroke-width:1.4545455;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="8.4519024"
-     y="27.019094"
-     id="text1677"><tspan
-       sodipodi:role="line"
-       id="tspan1675"
+  <g
+     id="g835"
+     transform="matrix(2,0,0,2,0,-64)">
+    <image
+       width="32"
+       height="26"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAcCAYAAADr9QYhAAAABHNCSVQICAgIfAhkiAAAAYlJREFU SIntl11zgjAQRU8QpWpt+///Zv2oIqYPuSsrBWfUYF+8MxlhTG4OmyVZAq0Cl4o8rq7nVe+JBhS6 nl4xuAckON9S94MPaTAlMAcWGhiBUwaYCVABS/lP5D0YmUIDPoAvXR+B+kEge8gF8Ams5I18/0CV DmouoAOwEeSj8hF+E5gt17fmagzKIjMTyLv+2AI/6nivfH4E0vJXaoUgGwd7jow3yJXABnIA1s53 pRZcv30fTG7ZMh1Iy4IgPtQiKT8boB4bxoAaB1SQgmBpsQF2wDFHkt4KtCHlZEPK1Rkpd7O8MbcA nUjLYm8RtHtdeCaMB7J95kLPhjH17sL/BdOrF8yQXjBDesEMqe9sCp2WU1e9y56OdpCVuMInI4x5 F10oDxNpi60lqeysRoCZyb+iU6CXtFuznRcVqRaekg61MSJjMHs3b7TIHEnH+lr3Bakm7j3QHoQp 1Paab6v5z5GpHYgVQGQG8UCQ8nGneWsgBteh+7E1tqzkrAUW/aQ+s58FY78R4BcIbG3ZpgsYQAAA AABJRU5ErkJggg== "
+       id="image1014"
+       x="-2.4424907e-15"
+       y="38" />
+    <path
+       d="m 3.078562,40.537 v 20 c 0,1 1,1 1,1 h 24 c 0,0 1,0 1,-1 v -14 l -7,-7 h -18 c -1,0 -1,1 -1,1 z"
+       id="path14361-9"
+       inkscape:connector-curvature="0"
+       style="fill:#c4bb1b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       d="m 22.059895,45.537 c 0,1 1.018667,1 1.018667,1 h 6 l -7.018667,-7 z"
+       id="path14363-1"
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       style="color:#000000;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;stroke-width:1.4545455;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       inkscape:connector-curvature="0"
+       d="m 12.51529,44.262545 a 1.0909091,1.0909091 0 0 0 -1.090909,1.090909 1.0909091,1.0909091 0 0 0 1.090909,1.090909 1.0909091,1.0909091 0 0 0 1.090909,-1.090909 1.0909091,1.0909091 0 0 0 -1.090909,-1.090909 m 0,0.727273 a 0.36363636,0.36363636 0 0 1 0.363635,0.363636 0.36363636,0.36363636 0 0 1 -0.363635,0.363636 0.36363636,0.36363636 0 0 1 -0.363638,-0.363636 0.36363636,0.36363636 0 0 1 0.363638,-0.363636 m 6.90909,0.727272 -4.072728,4.058182 -1.890909,-1.876363 -4.3636355,4.363636 h 1.0225455 l 2.268364,-2.241455 1.024,-1.02109 1.137454,1.031272 0.801454,0.776728 4.072727,-3.925819 2.613819,2.471273 h 1.022545 z"
+       id="path27" />
+    <text
+       id="text1677"
+       y="59.019096"
        x="8.4519024"
-       y="27.019094"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666698px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1">BMP</tspan></text>
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666698px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+         y="59.019096"
+         x="8.4519024"
+         id="tspan1675"
+         sodipodi:role="line">BMP</tspan></text>
+  </g>
 </svg>
